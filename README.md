@@ -36,28 +36,29 @@ pip install -r requirements.txt
 Target Datasets: Aircraft, Caltech101,CIFAR10, CIFAR100, DTD, EuroSAT, Flowers, Food, MNIST, OxfordPet,StanfordCars, SUN397, TinyImagenet
 
 More details can refer to [datasets.md](mtil%2Fdatasets.md) of [ZSCL](https://github.com/Thunderbeee/ZSCL). Big thanks to them for their awesome work!
-## Model ckpt
+## Getting Started
+### Model ckpt
 |                  | model                                                                |  
 |------------------|----------------------------------------------------------------------|
 | full_shot_order1 | [full_shot_order1_1000iters.pth](https://pan.baidu.com/s/1brWYIMrv34fhdc4kC9B0_g?pwd=p3zp)                         |
 | few_shot_order1  | [few_shot_order1_1000iters.pth](https://pan.baidu.com/s/1Z7q3tTLdRFN3zmtkj3_i4g?pwd=4edw) |
-## MTCL
-### Test stage
+### MTCL
+#### Test
 Example:
 1. Move the checkpoints to MoE-Adapters4CL/ckpt
 2. ```cd MoE-Adapters4CL/mtil```
 3. Run the script ```bash srcipts/test/Full_Shot_order1.sh ```
 
 
-### Train stage
+#### Train
 Example:
 1. Move the checkpoints to MoE-Adapters4CL/ckpt
 2. ```cd MoE-Adapters4CL/mtil```
 3. Run the script ```bash srcipts/train/router11_experts22_withFrozen_1000iters.sh```
 
-## Class Incremental Learning
+### Class Incremental Learning
 
-### Train stage
+#### Train stage
 Example:
 1. ```cd cil```
 2. ```bash run_cifar100-2-2.sh ```
