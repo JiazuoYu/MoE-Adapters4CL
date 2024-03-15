@@ -58,7 +58,7 @@ Example:
 
 ### Class Incremental Learning
 
-#### Train stage
+#### Train
 Example:
 1. ```cd cil```
 2. ```bash run_cifar100-2-2.sh ```
