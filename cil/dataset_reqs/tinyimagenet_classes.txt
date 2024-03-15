@@ -1,0 +1,200 @@
+0	n02124075	Egyptian Mau
+1	n04067472	fishing casting reel
+2	n04540053	volleyball
+3	n04099969	rocking chair
+4	n07749582	lemon
+5	n01641577	American bullfrog
+6	n02802426	basketball
+7	n09246464	cliff
+8	n07920052	espresso
+9	n03970156	plunger
+10	n03891332	parking meter
+11	n02106662	German Shepherd Dog
+12	n03201208	dining table
+13	n02279972	monarch butterfly
+14	n02132136	brown bear
+15	n04146614	school bus
+16	n07873807	pizza
+17	n02364673	guinea pig
+18	n04507155	umbrella
+19	n03854065	pipe organ
+20	n03838899	oboe
+21	n03733131	maypole
+22	n01443537	goldfish
+23	n07875152	pot pie
+24	n03544143	hourglass
+25	n09428293	beach
+26	n03085013	computer keyboard
+27	n02437312	arabian camel
+28	n07614500	ice cream
+29	n03804744	metal nail
+30	n04265275	space heater
+31	n02963159	cardigan
+32	n02486410	baboon
+33	n01944390	snail
+34	n09256479	coral reef
+35	n02058221	albatross
+36	n04275548	spider web
+37	n02321529	sea cucumber
+38	n02769748	backpack
+39	n02099712	Labrador Retriever
+40	n07695742	pretzel
+41	n02056570	king penguin
+42	n02281406	sulphur butterfly
+43	n01774750	tarantula
+44	n02509815	red panda
+45	n03983396	soda bottle
+46	n07753592	banana
+47	n04254777	sock
+48	n02233338	cockroach
+49	n04008634	missile
+50	n02823428	beer bottle
+51	n02236044	praying mantis
+52	n03393912	freight car
+53	n07583066	guacamole
+54	n04074963	remote control
+55	n01629819	fire salamander
+56	n09332890	lakeshore
+57	n02481823	chimpanzee
+58	n03902125	payphone
+59	n03404251	fur coat
+60	n09193705	mountain
+61	n03637318	lampshade
+62	n04456115	torch
+63	n02666196	abacus
+64	n03796401	moving van
+65	n02795169	barrel
+66	n02123045	tabby cat
+67	n01855672	goose
+68	n01882714	koala
+69	n02917067	high-speed train
+70	n02988304	CD player
+71	n04398044	teapot
+72	n02843684	birdhouse
+73	n02423022	gazelle
+74	n02669723	academic gown
+75	n04465501	tractor
+76	n02165456	ladybug
+77	n03770439	miniskirt
+78	n02099601	Golden Retriever
+79	n04486054	triumphal arch
+80	n02950826	cannon
+81	n03814639	neck brace
+82	n04259630	sombrero
+83	n03424325	gas mask or respirator
+84	n02948072	candle
+85	n03179701	desk
+86	n03400231	frying pan
+87	n02206856	bee
+88	n03160309	dam
+89	n01984695	spiny lobster
+90	n03977966	police van
+91	n03584254	iPod
+92	n04023962	punching bag
+93	n02814860	lighthouse
+94	n01910747	jellyfish
+95	n04596742	wok
+96	n03992509	potter's wheel
+97	n04133789	sandal
+98	n03937543	pill bottle
+99	n02927161	butcher shop
+100	n01945685	slug
+101	n02395406	pig
+102	n02125311	cougar
+103	n03126707	construction crane
+104	n04532106	vestment
+105	n02268443	dragonfly
+106	n02977058	automated teller machine
+107	n07734744	mushroom
+108	n03599486	rickshaw
+109	n04562935	water tower
+110	n03014705	storage chest
+111	n04251144	snorkel
+112	n04356056	sunglasses
+113	n02190166	fly
+114	n03670208	limousine
+115	n02002724	black stork
+116	n02074367	dugong
+117	n04285008	sports car
+118	n04560804	water jug
+119	n04366367	suspension bridge
+120	n02403003	ox
+121	n07615774	popsicle
+122	n04501370	turnstile
+123	n03026506	Christmas stocking
+124	n02906734	broom
+125	n01770393	scorpion
+126	n04597913	wooden spoon
+127	n03930313	picket fence
+128	n04118538	rugby ball
+129	n04179913	sewing machine
+130	n04311004	through arch bridge
+131	n02123394	Persian cat
+132	n04070727	refrigerator
+133	n02793495	barn
+134	n02730930	apron
+135	n02094433	Yorkshire Terrier
+136	n04371430	swim trunks / shorts
+137	n04328186	stopwatch
+138	n03649909	lawn mower
+139	n04417672	thatched roof
+140	n03388043	fountain
+141	n01774384	southern black widow
+142	n02837789	bikini
+143	n07579787	plate
+144	n04399382	teddy bear
+145	n02791270	barbershop
+146	n03089624	candy store
+147	n02814533	station wagon
+148	n04149813	scoreboard
+149	n07747607	orange
+150	n03355925	flagpole
+151	n01983481	American lobster
+152	n04487081	trolleybus
+153	n03250847	drumstick
+154	n03255030	dumbbell
+155	n02892201	brass memorial plaque
+156	n02883205	bow tie
+157	n03100240	convertible
+158	n02415577	bighorn sheep
+159	n02480495	orangutan
+160	n01698640	American alligator
+161	n01784675	centipede
+162	n04376876	syringe
+163	n03444034	go-kart
+164	n01917289	brain coral
+165	n01950731	sea slug
+166	n03042490	cliff dwelling
+167	n07711569	mashed potatoes
+168	n04532670	viaduct
+169	n03763968	military uniform
+170	n07768694	pomegranate
+171	n02999410	chain
+172	n03617480	kimono
+173	n06596364	comic book
+174	n01768244	trilobite
+175	n02410509	bison
+176	n03976657	pole
+177	n01742172	boa constrictor
+178	n03980874	poncho
+179	n02808440	bathtub
+180	n02226429	grasshopper
+181	n02231487	stick insect
+182	n02085620	Chihuahua
+183	n01644900	tailed frog
+184	n02129165	lion
+185	n02699494	altar
+186	n03837869	obelisk
+187	n02815834	beaker
+188	n07720875	bell pepper
+189	n02788148	baluster / handrail
+190	n02909870	bucket
+191	n03706229	magnetic compass
+192	n07871810	meatloaf
+193	n03447447	gondola
+194	n02113799	Standard Poodle
+195	n12267677	acorn
+196	n03662601	lifeboat
+197	n02841315	binoculars
+198	n07715103	cauliflower
+199	n02504458	African bush elephant

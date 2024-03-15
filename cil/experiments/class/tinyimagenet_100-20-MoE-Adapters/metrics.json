@@ -1,0 +1,7 @@
+{"task": 0, "acc": 85.98, "avg_acc": 85.98, "forgetting": 0.0, "acc_per_task": [85.98], "bwt": 0.0, "fwt": 0.0}
+{"task": 1, "acc": 83.95, "avg_acc": 84.96, "forgetting": 0.0, "acc_per_task": [83.72, 85.1], "bwt": 0.0, "fwt": 83.72}
+{"task": 2, "acc": 81.77, "avg_acc": 83.9, "forgetting": 2.13, "acc_per_task": [81.72, 82.2, 81.6], "bwt": -1.42, "fwt": 82.55}
+{"task": 3, "acc": 79.99, "avg_acc": 82.92, "forgetting": 3.54, "acc_per_task": [80.06, 80.4, 78.0, 81.2], "bwt": -2.48, "fwt": 81.02}
+{"task": 4, "acc": 78.18, "avg_acc": 81.97, "forgetting": 4.775, "acc_per_task": [78.28, 79.0, 76.3, 77.7, 79.2], "bwt": -3.4, "fwt": 79.74}
+{"task": 5, "acc": 76.87, "avg_acc": 81.12, "forgetting": 6.092, "acc_per_task": [77.42, 76.6, 75.8, 73.6, 76.9, 78.7], "bwt": -4.3, "fwt": 78.51}
+{"last": 76.87, "avg": 81.12}

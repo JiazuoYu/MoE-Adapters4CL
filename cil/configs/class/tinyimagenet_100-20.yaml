@@ -1,0 +1,36 @@
+hydra:
+  run:
+    dir: ./experiments/${scenario}/${dataset}_${initial_increment}-${increment}-${method}
+  job:
+    chdir: true
+
+  job_logging:
+    version: 1
+    formatters:
+      simple:
+        format: '%(message)s'
+
+class_order: ""
+dataset_root: ""
+workdir: ""
+log_path: "metrics.json"
+model_name: "ViT-B/16"
+prompt_template: "a bad photo of a {}."
+
+batch_size: 64
+initial_increment: 100  
+increment: 20
+scenario: "class"
+dataset: "tinyimagenet"
+
+weight_decay: 0.0
+l2: 0
+ce_method: 0
+
+method: "MoE-Adapters"
+lr: 1e-3
+ls: 0.0
+we: 
+avg_freq:  
+ref_dataset:
+ref_sentences: random

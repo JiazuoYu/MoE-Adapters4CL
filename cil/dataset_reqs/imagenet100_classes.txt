@@ -1,0 +1,100 @@
+0	n01440764	tench
+1	n01443537	goldfish
+2	n01484850	great white shark
+3	n01491361	tiger shark
+4	n01494475	hammerhead shark
+5	n01496331	electric ray
+6	n01498041	stingray
+7	n01514668	rooster
+8	n01514859	hen
+9	n01518878	ostrich
+10	n01530575	brambling
+11	n01531178	goldfinch
+12	n01532829	house finch
+13	n01534433	junco
+14	n01537544	indigo bunting
+15	n01558993	American robin
+16	n01560419	bulbul
+17	n01580077	jay
+18	n01582220	magpie
+19	n01592084	chickadee
+20	n01601694	American dipper
+21	n01608432	kite (bird of prey)
+22	n01614925	bald eagle
+23	n01616318	vulture
+24	n01622779	great grey owl
+25	n01629819	fire salamander
+26	n01630670	smooth newt
+27	n01631663	newt
+28	n01632458	spotted salamander
+29	n01632777	axolotl
+30	n01641577	American bullfrog
+31	n01644373	tree frog
+32	n01644900	tailed frog
+33	n01664065	loggerhead sea turtle
+34	n01665541	leatherback sea turtle
+35	n01667114	mud turtle
+36	n01667778	terrapin
+37	n01669191	box turtle
+38	n01675722	banded gecko
+39	n01677366	green iguana
+40	n01682714	Carolina anole
+41	n01685808	desert grassland whiptail lizard
+42	n01687978	agama
+43	n01688243	frilled-necked lizard
+44	n01689811	alligator lizard
+45	n01692333	Gila monster
+46	n01693334	European green lizard
+47	n01694178	chameleon
+48	n01695060	Komodo dragon
+49	n01697457	Nile crocodile
+50	n01698640	American alligator
+51	n01704323	triceratops
+52	n01728572	worm snake
+53	n01728920	ring-necked snake
+54	n01729322	eastern hog-nosed snake
+55	n01729977	smooth green snake
+56	n01734418	kingsnake
+57	n01735189	garter snake
+58	n01737021	water snake
+59	n01739381	vine snake
+60	n01740131	night snake
+61	n01742172	boa constrictor
+62	n01744401	African rock python
+63	n01748264	Indian cobra
+64	n01749939	green mamba
+65	n01751748	sea snake
+66	n01753488	Saharan horned viper
+67	n01755581	eastern diamondback rattlesnake
+68	n01756291	sidewinder rattlesnake
+69	n01768244	trilobite
+70	n01770081	harvestman
+71	n01770393	scorpion
+72	n01773157	yellow garden spider
+73	n01773549	barn spider
+74	n01773797	European garden spider
+75	n01774384	southern black widow
+76	n01774750	tarantula
+77	n01775062	wolf spider
+78	n01776313	tick
+79	n01784675	centipede
+80	n01795545	black grouse
+81	n01796340	ptarmigan
+82	n01797886	ruffed grouse
+83	n01798484	prairie grouse
+84	n01806143	peafowl
+85	n01806567	quail
+86	n01807496	partridge
+87	n01817953	african grey parrot
+88	n01818515	macaw
+89	n01819313	sulphur-crested cockatoo
+90	n01820546	lorikeet
+91	n01824575	coucal
+92	n01828970	bee eater
+93	n01829413	hornbill
+94	n01833805	hummingbird
+95	n01843065	jacamar
+96	n01843383	toucan
+97	n01847000	duck
+98	n01855032	red-breasted merganser
+99	n01855672	goose
