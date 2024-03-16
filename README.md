@@ -5,7 +5,7 @@ Code for paper "**Boosting Continual Learning of Vision-Language Models via Mixt
   - [Abstract](#Abstract)
   - [Approach](#Approach)
   - [Install](#Install)
-  - [Data preparation](#Data preparation)
+  - [Data preparation](#Data-preparation)
   - [Getting Started](#getting-started)
     - [Model ckpt](#Model ckpt)
     - [MTCL](#MTCL)
