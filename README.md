@@ -7,7 +7,7 @@ Code for paper "**Boosting Continual Learning of Vision-Language Models via Mixt
   - [Install](#Install)
   - [Data preparation](#Data-preparation)
   - [Getting Started](#getting-started)
-    - [Model ckpt](#Model ckpt)
+    - [Model ckpt](#Model-ckpt)
     - [MTCL](#MTCL)
       - [Test](#Test)
       - [Train](#Train)
