@@ -64,7 +64,7 @@ def exp_lr_scheduler(optimizer, epoch, init_lr=0.0008, lr_decay_epoch=10):
 
 
 def encoder_criterion(outputs, inputs):
-    loss = nn.SmoothL1Loss()
+    loss = nn.MSELoss()
     return loss(outputs, inputs)
 
 def AutoEncoder(args):
