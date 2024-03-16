@@ -62,13 +62,16 @@ def main(args):
 
 
     else:
-        print('----------------------train chooser----------------------')
-        if args.few_shot > 0:
-            chooser_of_few_shot = few_shot_AutoEncoder(args)# few shot chooser
+        if args.train_chooser:
+            if args.few_shot > 0:
+                print('----------------------train few-shot chooser----------------------')
+                chooser_of_few_shot = few_shot_AutoEncoder(args)# few shot chooser
+            else:
+                print('----------------------train full-shot chooser----------------------')
+                chooser = AutoEncoder(args)
         else:
-            chooser = AutoEncoder(args)
-        print('----------------------finetune model----------------------')
-        model = finetune(args)
+            print('----------------------finetune model----------------------')
+            model = finetune(args)
 
 
 if __name__ == "__main__":

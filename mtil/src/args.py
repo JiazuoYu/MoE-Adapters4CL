@@ -322,6 +322,8 @@ def parse_arguments():
     parser.add_argument("--frozen-path", type=str, default="frozen_list")
     parser.add_argument("--few_shot", type=int, default=-1, help="few_shot_num")  # n-shot
     parser.add_argument("--topk", type=int, default=2)
+    parser.add_argument("--train_chooser", action="store_true", help="train autochoose.")
+
     args = parser.parse_args()
     args.device = "cuda" if torch.cuda.is_available() else "cpu"
 

@@ -72,7 +72,7 @@ def few_shot_AutoEncoder(args):
         # Derives a feature extractor model from the Alexnet model
         feature_extractor = Alexnet_FE(pretrained_alexnet).to(device)
         Autoencoder_list = nn.ModuleList()
-        for i in range(11):
+        for i in range(12):
             model_autoencoder = few_shot_autoencoder(256 * 13 * 13).to(device)
             Autoencoder_list.append(model_autoencoder)
         if args.load:
@@ -142,7 +142,7 @@ def few_shot_AutoEncoder(args):
 
         _, train_preprocess, val_preprocess = clip.load(args.model, jit=False, args=args)  # model='ViT-B/16'
         Autoencoder_list = nn.ModuleList()
-        for i in range(11):
+        for i in range(12):
             model_autoencoder = few_shot_autoencoder(256 * 13 * 13).to(device)
             Autoencoder_list.append(model_autoencoder)
         # Initial model
@@ -191,8 +191,7 @@ def few_shot_AutoEncoder(args):
 
         optimizer_encoder = optim.Adam(model_autoencoder.parameters(), lr=0.003, weight_decay=0.0001)
         num_batches = len(dataset.train_loader)
-        # total_iterations = args.iterations
-        total_iterations = 300
+        total_iterations = args.iterations
 
         running_loss = 0
 
@@ -221,34 +220,34 @@ def few_shot_AutoEncoder(args):
             loss = encoder_criterion(outputs, input_to_ae)
             loss.backward()
             optimizer.step()
-            if iteration % 100 == 0:
-                dataset_class = getattr(datasets, args.train_dataset)
-                dataset = dataset_class(
-                    val_preprocess,
-                    location=args.data_location,
-                    batch_size=args.batch_size,
-                    batch_size_eval=args.batch_size_eval,
-                )
-                image_enc = None
-                dataloader = get_dataloader(
-                    dataset, is_train=False, args=args, image_encoder=image_enc
-                )
-                best_router_list = []
-                best_loss_list = []
-                worst_loss = 0
-                for _, data in enumerate(tqdm(dataloader)):
-                    data = maybe_dictionarize(data)
-                    images = data["images"].cuda()
-                    input_to_ae = feature_extractor(images)
-                    input_to_ae = input_to_ae.view(input_to_ae.size(0), -1)
-                    input_to_ae = input_to_ae.to(device)
-                    input_to_ae = F.sigmoid(input_to_ae)  # GT
-
-                    outputs = model_autoencoder(input_to_ae)
-                    best_l = encoder_criterion(outputs, input_to_ae)
-
-                    best_loss_list.append(best_l.detach().cpu().numpy())
-                # print("max loss of every task", max(best_loss_list))
+            # if iteration % 100 == 0:
+            #     dataset_class = getattr(datasets, args.train_dataset)
+            #     dataset = dataset_class(
+            #         val_preprocess,
+            #         location=args.data_location,
+            #         batch_size=args.batch_size,
+            #         batch_size_eval=args.batch_size_eval,
+            #     )
+            #     image_enc = None
+            #     dataloader = get_dataloader(
+            #         dataset, is_train=False, args=args, image_encoder=image_enc
+            #     )
+            #     best_router_list = []
+            #     best_loss_list = []
+            #     worst_loss = 0
+            #     for _, data in enumerate(tqdm(dataloader)):
+            #         data = maybe_dictionarize(data)
+            #         images = data["images"].cuda()
+            #         input_to_ae = feature_extractor(images)
+            #         input_to_ae = input_to_ae.view(input_to_ae.size(0), -1)
+            #         input_to_ae = input_to_ae.to(device)
+            #         input_to_ae = F.sigmoid(input_to_ae)  # GT
+            #
+            #         outputs = model_autoencoder(input_to_ae)
+            #         best_l = encoder_criterion(outputs, input_to_ae)
+            #
+            #         best_loss_list.append(best_l.detach().cpu().numpy())
+            #     # print("max loss of every task", max(best_loss_list))
 
 
         # Saving model

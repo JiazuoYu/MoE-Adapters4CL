@@ -160,8 +160,8 @@ def AutoEncoder(args):
         )
         optimizer_encoder = optim.Adam(model_autoencoder.parameters(), lr=0.003, weight_decay=0.0001)
         num_batches = len(dataset.train_loader)
-        # total_iterations = args.iterations
-        total_iterations = 300
+        total_iterations = args.iterations
+
 
         running_loss = 0
 

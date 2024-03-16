@@ -4,6 +4,7 @@ from .cifar10 import CIFAR101, CIFAR102
 
 # Small
 from .collections import (
+    TinyImagenet,
     CIFAR10,
     CIFAR100,
     DTD,
@@ -45,6 +46,7 @@ from .ytbb_robust import YTBBRobust
 
 # Experimental datasets
 dataset_list = [
+    TinyImagenet,
     Aircraft,
     Caltech101,
     CIFAR10,
