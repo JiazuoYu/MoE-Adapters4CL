@@ -1,5 +1,5 @@
 # MoE-Adapters4CL
-Code for paper "**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**" CVPR2024
+Code for paper "[**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**](https://arxiv.org/abs/2403.11549)" CVPR2024
 
 ## Table of Contents
   - [Abstract](#Abstract)
