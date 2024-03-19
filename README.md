@@ -63,7 +63,14 @@ Example:
 2. ```bash run_cifar100-2-2.sh ```
 
 ## Citation
-
+```
+@InProceedings{yu2024boosting,
+  title={Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters},
+  author={Yu, Jiazuo and Zhuge, Yunzhi and Zhang, Lu and Hu, Ping and Wang, Dong and Lu, Huchuan and He, You},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2024}
+}
+```
 ## Acknowledgement
 Our repo is built on [wise-ft](https://github.com/mlfoundations/wise-ft), [Continual-CLIP](https://github.com/vgthengane/Continual-CLIP/tree/master) and [ZSCL](https://github.com/Thunderbeee/ZSCL). We thank the authors for sharing their codes.
 
