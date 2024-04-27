@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Data preparation
 Target Datasets: Aircraft, Caltech101,CIFAR10, CIFAR100, DTD, EuroSAT, Flowers, Food, MNIST, OxfordPet,StanfordCars, SUN397, TinyImagenet
-
+If you have problems with Caltech101, you can refer to [issue#6](https://github.com/JiazuoYu/MoE-Adapters4CL/issues/6).
 More details can refer to [datasets.md](mtil%2Fdatasets.md) of [ZSCL](https://github.com/Thunderbeee/ZSCL). Big thanks to them for their awesome work!
 ## Model ckpt
 |                  | Model                                                                | Link |
