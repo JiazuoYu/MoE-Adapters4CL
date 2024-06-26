@@ -66,10 +66,11 @@ Example:
 
 ## Citation
 ```
-@InProceedings{yu2024boosting,
-  title={Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters},
+@inproceedings{yu2024boosting,
+  title={Boosting continual learning of vision-language models via mixture-of-experts adapters},
   author={Yu, Jiazuo and Zhuge, Yunzhi and Zhang, Lu and Hu, Ping and Wang, Dong and Lu, Huchuan and He, You},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={23219--23230},
   year={2024}
 }
 ```
