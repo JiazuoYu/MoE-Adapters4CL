@@ -6,7 +6,6 @@ set -x
 
 GPU=3,4
 dataset=(Aircraft Caltech101 CIFAR100 DTD EuroSAT Flowers Food MNIST OxfordPet StanfordCars SUN397)
-lr=(5e-3 1e-4 5e-3 1e-3 1e-4 1e-3 1e-3 1e-4 1e-3 1e-3 1e-3)
 chooser=(Aircraft_autochooser Caltech101_autochooser CIFAR100_autochooser DTD_autochooser EuroSAT_autochooser Flowers_autochooser Food_autochooser MNIST_autochooser OxfordPet_autochooser StanfordCars_autochooser SUN397_autochooser)
 threshold=(600e-4 600e-4 600e-4 600e-4 600e-4 600e-4 600e-4 600e-4 600e-4 600e-4 600e-4 600e-4)
 num=22 # experts num
