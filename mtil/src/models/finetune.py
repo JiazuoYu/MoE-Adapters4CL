@@ -201,10 +201,10 @@ def finetune(args):
             top_values_t, top_indices_t = torch.topk(text_choose_map, 2)
 
             for j in range(len(top_indices_v)):
-                item1 = 'visual.transformer.resblocks.{}.adaptmlp_list.{}.down_proj.weight'.format(i,top_indices_t[j])
-                item2 = 'visual.transformer.resblocks.{}.adaptmlp_list.{}.down_proj.bias'.format(i,top_indices_t[j])
-                item3 = 'visual.transformer.resblocks.{}.adaptmlp_list.{}.up_proj.weight'.format(i,top_indices_t[j])
-                item4 = 'visual.transformer.resblocks.{}.adaptmlp_list.{}.up_proj.bias'.format(i,top_indices_t[j])
+                item1 = 'visual.transformer.resblocks.{}.adaptmlp_list.{}.down_proj.weight'.format(i,top_indices_v[j])
+                item2 = 'visual.transformer.resblocks.{}.adaptmlp_list.{}.down_proj.bias'.format(i,top_indices_v[j])
+                item3 = 'visual.transformer.resblocks.{}.adaptmlp_list.{}.up_proj.weight'.format(i,top_indices_v[j])
+                item4 = 'visual.transformer.resblocks.{}.adaptmlp_list.{}.up_proj.bias'.format(i,top_indices_v[j])
                 file.write(item1 + "\n")
                 file.write(item2 + "\n")
                 file.write(item3 + "\n")
