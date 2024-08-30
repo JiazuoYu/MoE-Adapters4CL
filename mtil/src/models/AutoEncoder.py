@@ -124,7 +124,6 @@ def AutoEncoder(args):
                 best_loss_list.append(best_l.detach().cpu().numpy())
                 if best_l>worst_loss:
                     worst_loss = best_l
-            # print("task的loss最大值", worst_loss)
             # print(best_router_list)
             # print(best_loss_list)
             count_of_zeros = best_router_list.count(j)
