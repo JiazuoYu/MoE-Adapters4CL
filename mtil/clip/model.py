@@ -319,10 +319,10 @@ class ResidualAttentionBlock(nn.Module):
         self.text_or_image = text_or_image
         if text_or_image == 'text':
             print('text transformer')
-            self.choose_map_text = torch.zeros([ self.experts_num])  # experts使用频率记录表
+            self.choose_map_text = torch.zeros([ self.experts_num])  
         else:
             print('image transformer')
-            self.choose_map_image = torch.zeros([ self.experts_num])  # experts使用频率记录表
+            self.choose_map_image = torch.zeros([ self.experts_num])  
         self.ffn_option = args.ffn_option
         self.ffn_num = args.ffn_num
         self.autorouter = args.autorouter
