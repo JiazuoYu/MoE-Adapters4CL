@@ -76,9 +76,9 @@ def few_shot_AutoEncoder(args):
             model_autoencoder = few_shot_autoencoder(256 * 13 * 13).to(device)
             Autoencoder_list.append(model_autoencoder)
         if args.load:
-            utils.torch_load(Autoencoder_list, args.load)  # 加载模型
+            utils.torch_load(Autoencoder_list, args.load) 
         task_acc_list = []
-        # 加载数据
+        
         for j, dataset_name in enumerate(args.eval_datasets):
             print("Evaluating on", dataset_name)  # Caltech101
             dataset_class = getattr(datasets, args.eval_datasets[j])
@@ -132,7 +132,7 @@ def few_shot_AutoEncoder(args):
 
             probability_percentage = probability_of_zero * 100
 
-            # print(j, "出现的概率（百分比）:", probability_percentage, "%")
+            
             task_acc_list.append(probability_percentage)
         # print(task_acc_list)
 
