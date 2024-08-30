@@ -17,7 +17,6 @@ def finetune(args):
     model, train_preprocess, val_preprocess = clip.load(args.model, jit=False, args=args)  # model='ViT-B/16'
     #  train_preprocess is_train=True val_preprocess is_train=False
     if args.load is not None and args.repeat_train is True:
-        print('[fish] 11Router_22autoAdapter 叠加训练')
         utils.torch_load(model, args.load)
     # prepare dataset
     dataset_class = getattr(datasets, args.train_dataset)
