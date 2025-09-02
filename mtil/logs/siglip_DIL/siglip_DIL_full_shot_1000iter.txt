@@ -1,0 +1,610 @@
+LR:  0.001 RD_LR:  0.001
+text use Dynamic MoE_Adapters in layers: [False, False, False, False, False, False, False, False, False, False, False, False]
+visual use Dynamic MoE_Adapters in layers: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+use Dynamic MoE_Adapters for continual learning, init the model with 2 experts
+[model state] init training
+build pre-trained model config: Siglip-B-14-224
+Iterations per epoch: 524
+Total iterations: 1000
+[Training mode] Dynamic Moe-Adapters: only adapters(experts) & routers
+The number of Total Trainable Parameters: 4149760
+Total Trainable Parameters Memory Size: 15.83 MB
+Using devices [0]
+Loss: 39.27988052368164
+Loss: 22.68303680419922
+Layer 0, text expert_num: 0, visual expert_num: 0
+Layer 1, text expert_num: 0, visual expert_num: 0
+Layer 2, text expert_num: 0, visual expert_num: 2.0
+Layer 3, text expert_num: 0, visual expert_num: 2.0
+Layer 4, text expert_num: 0, visual expert_num: 2.0
+Layer 5, text expert_num: 0, visual expert_num: 2.0
+Layer 6, text expert_num: 0, visual expert_num: 2.0
+Layer 7, text expert_num: 0, visual expert_num: 2.0
+Layer 8, text expert_num: 0, visual expert_num: 2.0
+Layer 9, text expert_num: 0, visual expert_num: 2.0
+Layer 10, text expert_num: 0, visual expert_num: 2.0
+Layer 11, text expert_num: 0, visual expert_num: 2.0
+Model saved in HuggingFace format to ckpt/Domainet/siglip_DIL_2/Order1/full_shot/ClipArt
+LR:  0.001 RD_LR:  0.001
+text use Dynamic MoE_Adapters in layers: [False, False, False, False, False, False, False, False, False, False, False, False]
+visual use Dynamic MoE_Adapters in layers: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+use Dynamic MoE_Adapters for continual learning
+text_expert_num in all layers: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+image_expert_num in all layers: [0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+build pre-trained model config: Siglip-B-14-224
+Iterations per epoch: 563
+Total iterations: 1000
+[Training mode] Dynamic Moe-Adapters: only adapters(experts) & routers
+The number of Total Trainable Parameters: 2351360
+Total Trainable Parameters Memory Size: 8.97 MB
+Using devices [0]
+In iter 0, image layer 2 add a new expert, now expert_num is 3, trigger device: cuda:0
+Loss: 35.74099349975586
+In iter 14, image layer 7 add a new expert, now expert_num is 3, trigger device: cuda:0
+In iter 19, image layer 3 add a new expert, now expert_num is 3, trigger device: cuda:0
+In iter 19, image layer 4 add a new expert, now expert_num is 3, trigger device: cuda:0
+In iter 19, image layer 5 add a new expert, now expert_num is 3, trigger device: cuda:0
+In iter 19, image layer 6 add a new expert, now expert_num is 3, trigger device: cuda:0
+In iter 35, image layer 8 add a new expert, now expert_num is 3, trigger device: cuda:0
+In iter 35, image layer 9 add a new expert, now expert_num is 3, trigger device: cuda:0
+In iter 35, image layer 10 add a new expert, now expert_num is 3, trigger device: cuda:0
+In iter 76, image layer 11 add a new expert, now expert_num is 3, trigger device: cuda:0
+Loss: 27.678674697875977
+Layer 0, text expert_num: 0, visual expert_num: 0
+Layer 1, text expert_num: 0, visual expert_num: 0
+Layer 2, text expert_num: 0, visual expert_num: 3.0
+Layer 3, text expert_num: 0, visual expert_num: 3.0
+Layer 4, text expert_num: 0, visual expert_num: 3.0
+Layer 5, text expert_num: 0, visual expert_num: 3.0
+Layer 6, text expert_num: 0, visual expert_num: 3.0
+Layer 7, text expert_num: 0, visual expert_num: 3.0
+Layer 8, text expert_num: 0, visual expert_num: 3.0
+Layer 9, text expert_num: 0, visual expert_num: 3.0
+Layer 10, text expert_num: 0, visual expert_num: 3.0
+Layer 11, text expert_num: 0, visual expert_num: 3.0
+Model saved in HuggingFace format to ckpt/Domainet/siglip_DIL_2/Order1/full_shot/InfoGraph
+LR:  0.001 RD_LR:  0.001
+text use Dynamic MoE_Adapters in layers: [False, False, False, False, False, False, False, False, False, False, False, False]
+visual use Dynamic MoE_Adapters in layers: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+use Dynamic MoE_Adapters for continual learning
+text_expert_num in all layers: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+image_expert_num in all layers: [0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+build pre-trained model config: Siglip-B-14-224
+Iterations per epoch: 788
+Total iterations: 1000
+[Training mode] Dynamic Moe-Adapters: only adapters(experts) & routers
+The number of Total Trainable Parameters: 2167040
+Total Trainable Parameters Memory Size: 8.27 MB
+Using devices [0]
+In iter 0, image layer 2 add a new expert, now expert_num is 4, trigger device: cuda:0
+Loss: 28.193153381347656
+In iter 14, image layer 4 add a new expert, now expert_num is 4, trigger device: cuda:0
+In iter 14, image layer 5 add a new expert, now expert_num is 4, trigger device: cuda:0
+In iter 14, image layer 6 add a new expert, now expert_num is 4, trigger device: cuda:0
+In iter 14, image layer 7 add a new expert, now expert_num is 4, trigger device: cuda:0
+In iter 14, image layer 8 add a new expert, now expert_num is 4, trigger device: cuda:0
+In iter 14, image layer 9 add a new expert, now expert_num is 4, trigger device: cuda:0
+In iter 14, image layer 10 add a new expert, now expert_num is 4, trigger device: cuda:0
+In iter 14, image layer 11 add a new expert, now expert_num is 4, trigger device: cuda:0
+In iter 55, image layer 3 add a new expert, now expert_num is 4, trigger device: cuda:0
+Loss: 22.00585174560547
+Layer 0, text expert_num: 0, visual expert_num: 0
+Layer 1, text expert_num: 0, visual expert_num: 0
+Layer 2, text expert_num: 0, visual expert_num: 4.0
+Layer 3, text expert_num: 0, visual expert_num: 4.0
+Layer 4, text expert_num: 0, visual expert_num: 4.0
+Layer 5, text expert_num: 0, visual expert_num: 4.0
+Layer 6, text expert_num: 0, visual expert_num: 4.0
+Layer 7, text expert_num: 0, visual expert_num: 4.0
+Layer 8, text expert_num: 0, visual expert_num: 4.0
+Layer 9, text expert_num: 0, visual expert_num: 4.0
+Layer 10, text expert_num: 0, visual expert_num: 4.0
+Layer 11, text expert_num: 0, visual expert_num: 4.0
+Model saved in HuggingFace format to ckpt/Domainet/siglip_DIL_2/Order1/full_shot/Painting
+LR:  0.001 RD_LR:  0.001
+text use Dynamic MoE_Adapters in layers: [False, False, False, False, False, False, False, False, False, False, False, False]
+visual use Dynamic MoE_Adapters in layers: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+use Dynamic MoE_Adapters for continual learning
+text_expert_num in all layers: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+image_expert_num in all layers: [0, 0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+build pre-trained model config: Siglip-B-14-224
+Iterations per epoch: 1887
+Total iterations: 1000
+[Training mode] Dynamic Moe-Adapters: only adapters(experts) & routers
+The number of Total Trainable Parameters: 2167040
+Total Trainable Parameters Memory Size: 8.27 MB
+Using devices [0]
+In iter 0, image layer 2 add a new expert, now expert_num is 5, trigger device: cuda:0
+Loss: 47.81135559082031
+In iter 15, image layer 5 add a new expert, now expert_num is 5, trigger device: cuda:0
+In iter 29, image layer 9 add a new expert, now expert_num is 5, trigger device: cuda:0
+In iter 29, image layer 10 add a new expert, now expert_num is 5, trigger device: cuda:0
+In iter 29, image layer 11 add a new expert, now expert_num is 5, trigger device: cuda:0
+In iter 52, image layer 8 add a new expert, now expert_num is 5, trigger device: cuda:0
+In iter 58, image layer 3 add a new expert, now expert_num is 5, trigger device: cuda:0
+In iter 73, image layer 6 add a new expert, now expert_num is 5, trigger device: cuda:0
+In iter 73, image layer 7 add a new expert, now expert_num is 5, trigger device: cuda:0
+In iter 335, image layer 4 add a new expert, now expert_num is 5, trigger device: cuda:0
+Loss: 28.856788635253906
+Layer 0, text expert_num: 0, visual expert_num: 0
+Layer 1, text expert_num: 0, visual expert_num: 0
+Layer 2, text expert_num: 0, visual expert_num: 5.0
+Layer 3, text expert_num: 0, visual expert_num: 5.0
+Layer 4, text expert_num: 0, visual expert_num: 5.0
+Layer 5, text expert_num: 0, visual expert_num: 5.0
+Layer 6, text expert_num: 0, visual expert_num: 5.0
+Layer 7, text expert_num: 0, visual expert_num: 5.0
+Layer 8, text expert_num: 0, visual expert_num: 5.0
+Layer 9, text expert_num: 0, visual expert_num: 5.0
+Layer 10, text expert_num: 0, visual expert_num: 5.0
+Layer 11, text expert_num: 0, visual expert_num: 5.0
+Model saved in HuggingFace format to ckpt/Domainet/siglip_DIL_2/Order1/full_shot/QuickDraw
+LR:  0.001 RD_LR:  0.001
+text use Dynamic MoE_Adapters in layers: [False, False, False, False, False, False, False, False, False, False, False, False]
+visual use Dynamic MoE_Adapters in layers: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+use Dynamic MoE_Adapters for continual learning
+text_expert_num in all layers: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+image_expert_num in all layers: [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+build pre-trained model config: Siglip-B-14-224
+Iterations per epoch: 1890
+Total iterations: 1000
+[Training mode] Dynamic Moe-Adapters: only adapters(experts) & routers
+The number of Total Trainable Parameters: 2167040
+Total Trainable Parameters Memory Size: 8.27 MB
+Using devices [0]
+In iter 0, image layer 2 add a new expert, now expert_num is 6, trigger device: cuda:0
+Loss: 23.3238582611084
+In iter 88, image layer 10 add a new expert, now expert_num is 6, trigger device: cuda:0
+In iter 88, image layer 11 add a new expert, now expert_num is 6, trigger device: cuda:0
+In iter 183, image layer 7 add a new expert, now expert_num is 6, trigger device: cuda:0
+In iter 236, image layer 5 add a new expert, now expert_num is 6, trigger device: cuda:0
+In iter 301, image layer 6 add a new expert, now expert_num is 6, trigger device: cuda:0
+In iter 444, image layer 8 add a new expert, now expert_num is 6, trigger device: cuda:0
+In iter 543, image layer 9 add a new expert, now expert_num is 6, trigger device: cuda:0
+In iter 988, image layer 3 add a new expert, now expert_num is 6, trigger device: cuda:0
+Loss: 21.625608444213867
+Layer 0, text expert_num: 0, visual expert_num: 0
+Layer 1, text expert_num: 0, visual expert_num: 0
+Layer 2, text expert_num: 0, visual expert_num: 6.0
+Layer 3, text expert_num: 0, visual expert_num: 6.0
+Layer 4, text expert_num: 0, visual expert_num: 5.0
+Layer 5, text expert_num: 0, visual expert_num: 6.0
+Layer 6, text expert_num: 0, visual expert_num: 6.0
+Layer 7, text expert_num: 0, visual expert_num: 6.0
+Layer 8, text expert_num: 0, visual expert_num: 6.0
+Layer 9, text expert_num: 0, visual expert_num: 6.0
+Layer 10, text expert_num: 0, visual expert_num: 6.0
+Layer 11, text expert_num: 0, visual expert_num: 6.0
+Model saved in HuggingFace format to ckpt/Domainet/siglip_DIL_2/Order1/full_shot/Real
+LR:  0.001 RD_LR:  0.001
+text use Dynamic MoE_Adapters in layers: [False, False, False, False, False, False, False, False, False, False, False, False]
+visual use Dynamic MoE_Adapters in layers: [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+use Dynamic MoE_Adapters for continual learning
+text_expert_num in all layers: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+image_expert_num in all layers: [0, 0, 6, 6, 5, 6, 6, 6, 6, 6, 6, 6]
+build pre-trained model config: Siglip-B-14-224
+Iterations per epoch: 754
+Total iterations: 1000
+[Training mode] Dynamic Moe-Adapters: only adapters(experts) & routers
+The number of Total Trainable Parameters: 2167040
+Total Trainable Parameters Memory Size: 8.27 MB
+Using devices [0]
+In iter 0, image layer 2 add a new expert, now expert_num is 7, trigger device: cuda:0
+Loss: 30.61330795288086
+In iter 37, image layer 6 add a new expert, now expert_num is 7, trigger device: cuda:0
+In iter 37, image layer 7 add a new expert, now expert_num is 7, trigger device: cuda:0
+In iter 37, image layer 8 add a new expert, now expert_num is 7, trigger device: cuda:0
+In iter 37, image layer 9 add a new expert, now expert_num is 7, trigger device: cuda:0
+In iter 37, image layer 11 add a new expert, now expert_num is 7, trigger device: cuda:0
+In iter 202, image layer 10 add a new expert, now expert_num is 7, trigger device: cuda:0
+In iter 590, image layer 5 add a new expert, now expert_num is 7, trigger device: cuda:0
+Loss: 24.10795021057129
+Layer 0, text expert_num: 0, visual expert_num: 0
+Layer 1, text expert_num: 0, visual expert_num: 0
+Layer 2, text expert_num: 0, visual expert_num: 7.0
+Layer 3, text expert_num: 0, visual expert_num: 6.0
+Layer 4, text expert_num: 0, visual expert_num: 5.0
+Layer 5, text expert_num: 0, visual expert_num: 7.0
+Layer 6, text expert_num: 0, visual expert_num: 7.0
+Layer 7, text expert_num: 0, visual expert_num: 7.0
+Layer 8, text expert_num: 0, visual expert_num: 7.0
+Layer 9, text expert_num: 0, visual expert_num: 7.0
+Layer 10, text expert_num: 0, visual expert_num: 7.0
+Layer 11, text expert_num: 0, visual expert_num: 7.0
+Model saved in HuggingFace format to ckpt/Domainet/siglip_DIL_2/Order1/full_shot/Sketch
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on ClipArt
+Get text embeddings of ['ClipArt']...
+Text embeddings processed!
+Top-1 accuracy: 87.34
+Top-5 accuracy: 97.11
+visual_zero_shot_rate: 0.23
+visual_right_rate: 0.77
+Max discrepancy: 12.0366
+Min discrepancy: 0.0719
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on InfoGraph
+Get text embeddings of ['InfoGraph']...
+Text embeddings processed!
+Top-1 accuracy: 58.32
+Top-5 accuracy: 76.48
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max discrepancy: 10.6823
+Min discrepancy: 4.3734
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Painting
+Get text embeddings of ['Painting']...
+Text embeddings processed!
+Top-1 accuracy: 75.62
+Top-5 accuracy: 91.05
+visual_zero_shot_rate: 0.92
+visual_right_rate: 0.00
+Max discrepancy: 10.2569
+Min discrepancy: 1.2738
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on QuickDraw
+Get text embeddings of ['QuickDraw']...
+Text embeddings processed!
+Top-1 accuracy: 24.11
+Top-5 accuracy: 44.61
+visual_zero_shot_rate: 0.11
+visual_right_rate: 0.00
+Max discrepancy: 7.5446
+Min discrepancy: 0.6787
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Real
+Get text embeddings of ['Real']...
+Text embeddings processed!
+Top-1 accuracy: 89.62
+Top-5 accuracy: 97.63
+visual_zero_shot_rate: 0.56
+visual_right_rate: 0.00
+Max discrepancy: 11.5999
+Min discrepancy: 0.0459
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Sketch
+Get text embeddings of ['Sketch']...
+Text embeddings processed!
+Top-1 accuracy: 76.41
+Top-5 accuracy: 89.59
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max discrepancy: 10.3667
+Min discrepancy: 3.0124
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on ClipArt
+Get text embeddings of ['ClipArt']...
+Text embeddings processed!
+Top-1 accuracy: 87.33
+Top-5 accuracy: 97.11
+visual_zero_shot_rate: 0.23
+visual_right_rate: 0.77
+Max discrepancy: 8.0742
+Min discrepancy: 0.0719
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on InfoGraph
+Get text embeddings of ['InfoGraph']...
+Text embeddings processed!
+Top-1 accuracy: 65.22
+Top-5 accuracy: 82.80
+visual_zero_shot_rate: 0.07
+visual_right_rate: 0.93
+Max discrepancy: 4.4857
+Min discrepancy: 0.0395
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Painting
+Get text embeddings of ['Painting']...
+Text embeddings processed!
+Top-1 accuracy: 74.47
+Top-5 accuracy: 90.62
+visual_zero_shot_rate: 0.40
+visual_right_rate: 0.00
+Max discrepancy: 4.5556
+Min discrepancy: 0.2391
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on QuickDraw
+Get text embeddings of ['QuickDraw']...
+Text embeddings processed!
+Top-1 accuracy: 24.24
+Top-5 accuracy: 44.71
+visual_zero_shot_rate: 0.10
+visual_right_rate: 0.00
+Max discrepancy: 4.4082
+Min discrepancy: 0.6787
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Real
+Get text embeddings of ['Real']...
+Text embeddings processed!
+Top-1 accuracy: 89.22
+Top-5 accuracy: 97.56
+visual_zero_shot_rate: 0.37
+visual_right_rate: 0.00
+Max discrepancy: 7.3964
+Min discrepancy: 0.0459
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Sketch
+Get text embeddings of ['Sketch']...
+Text embeddings processed!
+Top-1 accuracy: 75.33
+Top-5 accuracy: 89.24
+visual_zero_shot_rate: 0.38
+visual_right_rate: 0.00
+Max discrepancy: 4.5935
+Min discrepancy: 1.6397
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on ClipArt
+Get text embeddings of ['ClipArt']...
+Text embeddings processed!
+Top-1 accuracy: 87.33
+Top-5 accuracy: 97.11
+visual_zero_shot_rate: 0.23
+visual_right_rate: 0.77
+Max discrepancy: 8.0742
+Min discrepancy: 0.0719
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on InfoGraph
+Get text embeddings of ['InfoGraph']...
+Text embeddings processed!
+Top-1 accuracy: 64.62
+Top-5 accuracy: 82.49
+visual_zero_shot_rate: 0.02
+visual_right_rate: 0.89
+Max discrepancy: 3.8593
+Min discrepancy: 0.0395
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Painting
+Get text embeddings of ['Painting']...
+Text embeddings processed!
+Top-1 accuracy: 78.93
+Top-5 accuracy: 93.26
+visual_zero_shot_rate: 0.06
+visual_right_rate: 0.65
+Max discrepancy: 3.4915
+Min discrepancy: 0.2340
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on QuickDraw
+Get text embeddings of ['QuickDraw']...
+Text embeddings processed!
+Top-1 accuracy: 24.24
+Top-5 accuracy: 44.71
+visual_zero_shot_rate: 0.10
+visual_right_rate: 0.00
+Max discrepancy: 4.3548
+Min discrepancy: 0.6787
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Real
+Get text embeddings of ['Real']...
+Text embeddings processed!
+Top-1 accuracy: 88.29
+Top-5 accuracy: 97.38
+visual_zero_shot_rate: 0.17
+visual_right_rate: 0.00
+Max discrepancy: 7.3964
+Min discrepancy: 0.0459
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Sketch
+Get text embeddings of ['Sketch']...
+Text embeddings processed!
+Top-1 accuracy: 74.32
+Top-5 accuracy: 89.02
+visual_zero_shot_rate: 0.19
+visual_right_rate: 0.00
+Max discrepancy: 4.5935
+Min discrepancy: 1.6397
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on ClipArt
+Get text embeddings of ['ClipArt']...
+Text embeddings processed!
+Top-1 accuracy: 87.33
+Top-5 accuracy: 97.11
+visual_zero_shot_rate: 0.23
+visual_right_rate: 0.77
+Max discrepancy: 8.0742
+Min discrepancy: 0.0719
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on InfoGraph
+Get text embeddings of ['InfoGraph']...
+Text embeddings processed!
+Top-1 accuracy: 64.62
+Top-5 accuracy: 82.49
+visual_zero_shot_rate: 0.02
+visual_right_rate: 0.89
+Max discrepancy: 3.8593
+Min discrepancy: 0.0395
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Painting
+Get text embeddings of ['Painting']...
+Text embeddings processed!
+Top-1 accuracy: 78.93
+Top-5 accuracy: 93.26
+visual_zero_shot_rate: 0.06
+visual_right_rate: 0.65
+Max discrepancy: 3.4915
+Min discrepancy: 0.2340
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on QuickDraw
+Get text embeddings of ['QuickDraw']...
+Text embeddings processed!
+Top-1 accuracy: 56.64
+Top-5 accuracy: 80.70
+visual_zero_shot_rate: 0.00
+visual_right_rate: 0.86
+Max discrepancy: 3.2603
+Min discrepancy: 0.0535
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Real
+Get text embeddings of ['Real']...
+Text embeddings processed!
+Top-1 accuracy: 88.29
+Top-5 accuracy: 97.38
+visual_zero_shot_rate: 0.17
+visual_right_rate: 0.00
+Max discrepancy: 7.3964
+Min discrepancy: 0.0459
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Sketch
+Get text embeddings of ['Sketch']...
+Text embeddings processed!
+Top-1 accuracy: 74.32
+Top-5 accuracy: 89.02
+visual_zero_shot_rate: 0.19
+visual_right_rate: 0.00
+Max discrepancy: 4.5935
+Min discrepancy: 1.6397
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on ClipArt
+Get text embeddings of ['ClipArt']...
+Text embeddings processed!
+Top-1 accuracy: 87.33
+Top-5 accuracy: 97.11
+visual_zero_shot_rate: 0.23
+visual_right_rate: 0.77
+Max discrepancy: 8.0742
+Min discrepancy: 0.0719
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on InfoGraph
+Get text embeddings of ['InfoGraph']...
+Text embeddings processed!
+Top-1 accuracy: 64.62
+Top-5 accuracy: 82.49
+visual_zero_shot_rate: 0.02
+visual_right_rate: 0.89
+Max discrepancy: 3.8593
+Min discrepancy: 0.0395
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Painting
+Get text embeddings of ['Painting']...
+Text embeddings processed!
+Top-1 accuracy: 78.84
+Top-5 accuracy: 93.46
+visual_zero_shot_rate: 0.00
+visual_right_rate: 0.51
+Max discrepancy: 2.9602
+Min discrepancy: 0.2340
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on QuickDraw
+Get text embeddings of ['QuickDraw']...
+Text embeddings processed!
+Top-1 accuracy: 56.64
+Top-5 accuracy: 80.70
+visual_zero_shot_rate: 0.00
+visual_right_rate: 0.86
+Max discrepancy: 3.2603
+Min discrepancy: 0.0535
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Real
+Get text embeddings of ['Real']...
+Text embeddings processed!
+Top-1 accuracy: 89.21
+Top-5 accuracy: 97.58
+visual_zero_shot_rate: 0.08
+visual_right_rate: 0.26
+Max discrepancy: 7.3964
+Min discrepancy: 0.0459
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Sketch
+Get text embeddings of ['Sketch']...
+Text embeddings processed!
+Top-1 accuracy: 74.32
+Top-5 accuracy: 89.02
+visual_zero_shot_rate: 0.19
+visual_right_rate: 0.00
+Max discrepancy: 4.5935
+Min discrepancy: 1.6397
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on ClipArt
+Get text embeddings of ['ClipArt']...
+Text embeddings processed!
+Top-1 accuracy: 87.30
+Top-5 accuracy: 97.11
+visual_zero_shot_rate: 0.20
+visual_right_rate: 0.77
+Max discrepancy: 8.0742
+Min discrepancy: 0.0719
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on InfoGraph
+Get text embeddings of ['InfoGraph']...
+Text embeddings processed!
+Top-1 accuracy: 64.62
+Top-5 accuracy: 82.49
+visual_zero_shot_rate: 0.02
+visual_right_rate: 0.89
+Max discrepancy: 3.8593
+Min discrepancy: 0.0395
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Painting
+Get text embeddings of ['Painting']...
+Text embeddings processed!
+Top-1 accuracy: 78.84
+Top-5 accuracy: 93.46
+visual_zero_shot_rate: 0.00
+visual_right_rate: 0.51
+Max discrepancy: 2.9602
+Min discrepancy: 0.2340
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on QuickDraw
+Get text embeddings of ['QuickDraw']...
+Text embeddings processed!
+Top-1 accuracy: 56.64
+Top-5 accuracy: 80.70
+visual_zero_shot_rate: 0.00
+visual_right_rate: 0.86
+Max discrepancy: 3.2603
+Min discrepancy: 0.0535
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Real
+Get text embeddings of ['Real']...
+Text embeddings processed!
+Top-1 accuracy: 89.20
+Top-5 accuracy: 97.57
+visual_zero_shot_rate: 0.08
+visual_right_rate: 0.26
+Max discrepancy: 7.3964
+Min discrepancy: 0.0459
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Sketch
+Get text embeddings of ['Sketch']...
+Text embeddings processed!
+Top-1 accuracy: 79.02
+Top-5 accuracy: 91.95
+visual_zero_shot_rate: 0.02
+visual_right_rate: 0.88
+Max discrepancy: 4.5935
+Min discrepancy: 0.1797

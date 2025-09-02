@@ -1,0 +1,231 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+
+        {
+            "name": "siglip_train",
+            "type": "debugpy",
+            "request": "launch",
+            // "program": "${workspaceFolder}/mtil/src/main.py",  // 确保路径正确
+            "module": "src.main",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "showReturnValue": true,
+            "redirectOutput": true,
+            "args": [
+                "--train-mode=adapter",
+                "--model=Siglip-B-14-224",
+                "--train-dataset=Caltech101",  // dataset[j]，假设 j=0
+                "--lr=1e-3",                // lr_ce[j]，假设 j=0
+                "--lr_ae=1e-3",             // lr_ae[j]，假设 j=0
+                "--ls", "0.2",
+                "--epochs", "1",
+                "--method", "finetune",
+                "--save", "ckpt/debug/Order1/full_shot/",  // model_ckpt_path
+                "--data-location", "/home/dhw/yjz_workspace/data/data",  // data_location
+                "--ffn_adapt_where", "AdapterDoubleEncoder",
+                "--ffn_adapt",
+                "--task_id", "0",  // j=0
+                "--multi_experts",
+                "--apply_moe",
+                "--is_train",
+                "--dyn_moe",
+                "--use_gate_noise",
+                "--expansion_threshold_image", "1.0",  // exp_threshold_image
+                "--expansion_threshold_text", "0.5",   // exp_threshold_text
+                "--log_dir", "logs/debug/Order1/full_shot/tensorboard/0512_base/continual_0",  // tensorboard_log_path/continual_j，假设 j=0
+                "--use_LEAS_to_eval",
+                "--visual_AE_hidden_dims", "32",
+                "--zero_shot_threshold_image", "20e-1",  // threshold[j]，假设 j=0
+                "--use_dyn_moe_layer_list_visual", "0", "0", "0", "0", "0", "0", "1", "1", "1", "1", "1", "1",  // list_v
+                "--use_LEAS_list_visual", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0",  // list_noly_LEAS
+                "--force_expansion_list", "0", "0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0",  // list_v_force
+                "--discrepancy_weighted_vector", "CON"
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "3"  // GPU
+            },
+            "cwd": "${workspaceFolder}/mtil"
+        
+        },
+        {
+            "name": "siglip_train_continual",
+            "type": "debugpy",
+            "request": "launch",
+            // "program": "${workspaceFolder}/mtil/src/main.py",  // 确保路径正确
+            "module": "src.main",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "showReturnValue": true,
+            "redirectOutput": true,
+            "args": [
+                "--train-mode=adapter",
+                "--model=Siglip-B-14-224",
+                "--repeat_train",
+                "--train-dataset=Aircraft",  // dataset[j]，假设 j=0
+                "--lr=1e-3",                // lr_ce[j]，假设 j=0
+                "--lr_ae=1e-3",             // lr_ae[j]，假设 j=0
+                "--ls", "0.2",
+                "--epochs", "1",
+                "--method", "finetune",
+                "--save", "ckpt/debug/Order1/full_shot/",  // model_ckpt_path
+                "--load", "ckpt/debug/Order1/full_shot/Caltech101",
+                "--data-location", "/home/dhw/yjz_workspace/data/data",  // data_location
+                "--ffn_adapt_where", "AdapterDoubleEncoder",
+                "--ffn_adapt",
+                "--task_id", "0",  // j=0
+                "--multi_experts",
+                "--apply_moe",
+                "--is_train",
+                "--dyn_moe",
+                "--use_gate_noise",
+                "--expansion_threshold_image", "1.0",  // exp_threshold_image
+                "--expansion_threshold_text", "0.5",   // exp_threshold_text
+                "--log_dir", "logs/debug/Order1/full_shot/tensorboard/0512_base/continual_0",  // tensorboard_log_path/continual_j，假设 j=0
+                "--use_LEAS_to_eval",
+                "--visual_AE_hidden_dims", "32",
+                "--zero_shot_threshold_image", "20e-1",  // threshold[j]，假设 j=0
+                "--use_dyn_moe_layer_list_visual", "0", "0", "0", "0", "0", "0", "1", "1", "1", "1", "1", "1",  // list_v
+                "--use_LEAS_list_visual", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0",  // list_noly_LEAS
+                "--force_expansion_list", "0", "0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0",  // list_v_force
+                "--discrepancy_weighted_vector", "CON"
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "3"  // GPU
+            },
+            "cwd": "${workspaceFolder}/mtil"
+        
+        },
+        {
+            "name": "CLIP_train_init",
+            "type": "debugpy",
+            "request": "launch",
+            // "program": "${workspaceFolder}/mtil/src/main.py",  // 确保路径正确
+            "module": "src.main",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "showReturnValue": true,
+            "redirectOutput": true,
+            "args": [
+                "--train-mode=adapter",
+                // "--model=Siglip-B-14-224",
+                "--repeat_train",
+                "--train-dataset=Aircraft",  // dataset[j]，假设 j=0
+                "--lr=1e-3",                // lr_ce[j]，假设 j=0
+                "--lr_ae=1e-3",             // lr_ae[j]，假设 j=0
+                "--ls", "0.2",
+                "--iteration", "1000",
+                "--method", "finetune",
+                "--save", "ckpt/debug/Order1/full_shot/",  // model_ckpt_path
+                // "--load", "ckpt/debug/Order1/full_shot/Caltech101",
+                "--data-location", "/home/dhw/yjz_workspace/data/data",  // data_location
+                "--ffn_adapt_where", "AdapterDoubleEncoder",
+                "--ffn_adapt",
+                "--task_id", "0",  // j=0
+                "--multi_experts",
+                "--apply_moe",
+                "--is_train",
+                "--dyn_moe",
+                "--use_gate_noise",
+                "--expansion_threshold_image", "1.0",  // exp_threshold_image
+                "--expansion_threshold_text", "0.5",   // exp_threshold_text
+                "--log_dir", "logs/debug/Order1/full_shot/tensorboard/0512_base/continual_0",  // tensorboard_log_path/continual_j，假设 j=0
+                "--use_LEAS_to_eval",
+                "--visual_AE_hidden_dims", "32",
+                "--zero_shot_threshold_image", "20e-1",  // threshold[j]，假设 j=0
+                "--use_dyn_moe_layer_list_visual", "0", "0", "0", "0", "0", "0", "1", "1", "1", "1", "1", "1",  // list_v
+                "--use_LEAS_list_visual", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0",  // list_noly_LEAS
+                "--force_expansion_list", "0", "0", "0", "0", "0", "0", "1", "0", "0", "0", "0", "0",  // list_v_force
+                "--discrepancy_weighted_vector", "CON"
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "3"  // GPU
+            },
+            "cwd": "${workspaceFolder}/mtil"
+        
+        },
+        {
+            "name": "siglip_eval",
+            "type": "debugpy",
+            "request": "launch",
+            // "program": "${workspaceFolder}/mtil/src/main.py",  // 确保路径正确
+            "module": "src.main",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "showReturnValue": true,
+            "redirectOutput": true,
+            "args": [
+                "--eval-only",
+                "--train-mode=adapter",
+                "--model=Siglip-B-14-224",
+                "--eval-datasets=Caltech101",  // 替换为实际数据集名
+                "--load", "ckpt/debug/Order1/full_shot/Caltech101",  // 替换为实际模型路径
+                "--data-location", "/home/dhw/yjz_workspace/data/data",
+                "--ffn_adapt_where", "AdapterDoubleEncoder",
+                "--ffn_adapt",
+                "--apply_moe",
+                "--task_id", "200",
+                "--multi_experts",
+                "--dyn_moe",
+                "--autorouter",
+                "--expansion_threshold_image=1.0",
+                "--expansion_threshold_text=0.5",
+                "--lr=0.001",  // 替换为实际lr_ce值
+                "--lr_ae=0.001",  // 替换为实际lr_ae值
+                "--eval_acc_task_id=0",
+                "--use_LEAS_to_eval",
+                "--visual_AE_hidden_dims=32",
+                "--zero_shot_threshold_image","20e-1",
+                "--use_dyn_moe_layer_list_visual", "0", "0", "0", "0", "0", "0", "1", "1", "1", "1", "1", "1",
+                "--use_LEAS_list_visual", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0",
+                "--log_dir", "logs/debug/Order1/full_shot/tensorboard/0512_base/continual_0",
+                "--discrepancy_weighted_vector=CON",
+                "--track_val_task_id", "0", "0", "0", "0", "0", "0", "1", "1", "1", "1", "1", "1",
+                "--track_val_discrepancy", "0", "0", "0", "0", "0", "0", "1", "1", "1", "1", "1", "1"
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "4"  // GPU
+            },
+            "cwd": "${workspaceFolder}/mtil"
+        
+        },
+        {
+            "name": "MoE_v0_init_train",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "src.main",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "showReturnValue": true,
+            "redirectOutput": true,
+            "args": [
+                "--model=Siglip-B-14-224",
+                "--batch-size=64",
+                "--train-mode=adapter",
+                "--train-dataset=ClipArt",  // 默认使用第一个数据集
+                "--lr=5e-3",                // 对应第一个学习率
+                "--ls=0.2",
+                "--iterations=1000",
+                "--method=finetune",
+                "--save=ckpt/exp_moe_v0_siglip_order1_full",
+                "--data-location=/home/dhw/yjz_workspace/data/data",
+                "--ffn_adapt_where=AdapterDoubleEncoder",
+                "--ffn_adapt",
+                "--task_id=0",              // 默认第一个任务
+                "--multi_experts",
+                "--apply_moe",
+                "--frozen-path=ckpt/frozen/frozen_moe_v0_siglip_order1_full22",
+                "--experts_num=22",
+                "--is_train"
+            ],
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "4,5"
+            },
+            "cwd": "${workspaceFolder}/mtil",
+        },
+    ]
+}

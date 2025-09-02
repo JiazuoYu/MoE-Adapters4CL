@@ -1,0 +1,249 @@
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 67.02
+Top-5 accuracy: 91.99
+visual_zero_shot_rate: 0.00
+visual_right_rate: 1.00
+Max rd_similarity: 1.3666
+Min rd_similarity: 0.0081
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 88.70
+Top-5 accuracy: 98.63
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 11.1834
+Min rd_similarity: 5.2968
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 60.13
+Top-5 accuracy: 90.12
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 13.9532
+Min rd_similarity: 13.7886
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 88.96
+Top-5 accuracy: 99.54
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 6.5359
+Min rd_similarity: 4.0244
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 71.28
+Top-5 accuracy: 85.92
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 8.7049
+Min rd_similarity: 2.3385
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.04
+Top-5 accuracy: 92.17
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 5.2476
+Min rd_similarity: 3.3482
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 24.36
+Top-5 accuracy: 60.31
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 6.6470
+Min rd_similarity: 3.7725
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 87.62
+Top-5 accuracy: 99.77
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 11.9329
+Min rd_similarity: 10.9167
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 45.21
+Top-5 accuracy: 76.01
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 13.7363
+Min rd_similarity: 10.7267
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 54.54
+Top-5 accuracy: 87.72
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 13.0076
+Min rd_similarity: 12.5747
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/StanfordCars.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 67.48
+Top-5 accuracy: 89.05
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 12.0428
+Min rd_similarity: 11.5502
+lr_ce:0.01
+lr_rd:0.001
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/Food.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 67.02
+Top-5 accuracy: 91.99
+visual_zero_shot_rate: 0.00
+visual_right_rate: 1.00
+Max rd_similarity: 1.3666
+Min rd_similarity: 0.0081
+lr_ce:0.0001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/Food.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 88.04
+Top-5 accuracy: 98.39
+visual_zero_shot_rate: 0.14
+visual_right_rate: 0.86
+Max rd_similarity: 3.8729
+Min rd_similarity: 0.0517
+lr_ce:0.0001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/Food.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 59.49
+Top-5 accuracy: 89.77
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 11.7155
+Min rd_similarity: 11.5234
+lr_ce:0.0001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: ckpt/SEMA/Order2/adjust_SEMA_few_shot_0908_Avg/Food.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 88.96
+Top-5 accuracy: 99.54
+visual_zero_shot_rate: 1.00
+visual_right_rate: 0.00
+Max rd_similarity: 6.5359
+Min rd_similarity: 4.0244
+lr_ce:0.0001
+lr_rd:0.002
+ZS_threshold:2.0
