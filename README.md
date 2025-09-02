@@ -1,5 +1,5 @@
 # MoE-Adapters++
-Code for paper "[**MoE-Adapters++: Towards More Efficient and Flexible Continual Learning Approaches for Vision-Language Models**]"
+Code for paper "[**MoE-Adapters++: Towards More Efficient and Flexible Continual Learning Approaches for Vision-Language Models**](https://ieeexplore.ieee.org/document/11122658)"
 
 ## Table of Contents
 - [MoE-Adapters++](#moe-adapters)
@@ -44,10 +44,8 @@ Target Datasets: Aircraft, Caltech101,CIFAR10, CIFAR100, DTD, EuroSAT, Flowers, 
 More details can refer to [datasets.md](mtil%2Fdatasets.md) of [ZSCL](https://github.com/Thunderbeee/ZSCL). Big thanks to them for their awesome work!
 
 ## Model ckpt
-|                  | Model                                                                | Link |
-|------------------|----------------------------------------------------------------------|---------------------------------------------------------------------- |
-| full_shot_order1 | full_shot_order1_1000iters.pth                  | [Baidu Disk](https://pan.baidu.com/s/1brWYIMrv34fhdc4kC9B0_g?pwd=p3zp) / [Google Drive](https://drive.google.com/drive/folders/1f2GB2kmBYoxzWI9E33XqPnkIKrAB2fh9?usp=sharing)      |
-| few_shot_order1  | few_shot_order1_1000iters.pth | [Baidu Disk](https://pan.baidu.com/s/1Z7q3tTLdRFN3zmtkj3_i4g?pwd=4edw) / [Google Drive](https://drive.google.com/drive/folders/1f2GB2kmBYoxzWI9E33XqPnkIKrAB2fh9?usp=sharing)       |
+All Models is avaliable in [Huggingface](https://huggingface.co/collections/HZCDLUT/moe-adapters-68b6b3b88fbbfbd83986f0b4)
+
 ## MTCL
 ### Test stage
 Example:
