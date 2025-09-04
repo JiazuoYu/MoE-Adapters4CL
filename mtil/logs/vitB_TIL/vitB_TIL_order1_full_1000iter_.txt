@@ -1,0 +1,1760 @@
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 87.90
+Top-5 accuracy: 99.77
+Max rd_similarity: 13.6465
+Min rd_similarity: 13.3133
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 68.22
+Top-5 accuracy: 89.93
+Max rd_similarity: 12.1915
+Min rd_similarity: 11.9010
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 45.11
+Top-5 accuracy: 76.54
+Max rd_similarity: 12.5213
+Min rd_similarity: 9.9147
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 54.61
+Top-5 accuracy: 87.80
+Max rd_similarity: 12.2355
+Min rd_similarity: 11.7161
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 71.28
+Top-5 accuracy: 85.92
+Max rd_similarity: 8.9209
+Min rd_similarity: 3.4384
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 88.75
+Top-5 accuracy: 98.67
+Max rd_similarity: 7.8607
+Min rd_similarity: 4.1872
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 59.45
+Top-5 accuracy: 89.76
+Max rd_similarity: 13.5058
+Min rd_similarity: 13.2106
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 89.07
+Top-5 accuracy: 99.59
+Max rd_similarity: 7.2670
+Min rd_similarity: 2.2765
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 64.52
+Top-5 accuracy: 94.28
+Max rd_similarity: 7.5871
+Min rd_similarity: 4.8398
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Aircraft.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.25
+Top-5 accuracy: 92.35
+Max rd_similarity: 6.5842
+Min rd_similarity: 4.0535
+lr_ce:0.01
+lr_rd:0.01
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 68.22
+Top-5 accuracy: 89.93
+Max rd_similarity: 7.5125
+Min rd_similarity: 7.2180
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 45.11
+Top-5 accuracy: 76.54
+Max rd_similarity: 7.6954
+Min rd_similarity: 5.8288
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 54.61
+Top-5 accuracy: 87.80
+Max rd_similarity: 8.4436
+Min rd_similarity: 8.2746
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 71.28
+Top-5 accuracy: 85.92
+Max rd_similarity: 7.9836
+Min rd_similarity: 3.4384
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 88.75
+Top-5 accuracy: 98.67
+Max rd_similarity: 7.8607
+Min rd_similarity: 4.1872
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 59.45
+Top-5 accuracy: 89.76
+Max rd_similarity: 7.5438
+Min rd_similarity: 7.3631
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 89.07
+Top-5 accuracy: 99.59
+Max rd_similarity: 7.2670
+Min rd_similarity: 2.2765
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 64.52
+Top-5 accuracy: 94.28
+Max rd_similarity: 7.5871
+Min rd_similarity: 4.8398
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Caltech101.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.25
+Top-5 accuracy: 92.35
+Max rd_similarity: 6.5842
+Min rd_similarity: 4.0535
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 45.11
+Top-5 accuracy: 76.54
+Max rd_similarity: 6.4215
+Min rd_similarity: 5.3621
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 54.61
+Top-5 accuracy: 87.80
+Max rd_similarity: 5.1871
+Min rd_similarity: 4.5617
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 71.28
+Top-5 accuracy: 85.92
+Max rd_similarity: 7.9836
+Min rd_similarity: 3.4384
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 88.75
+Top-5 accuracy: 98.67
+Max rd_similarity: 7.5937
+Min rd_similarity: 4.1872
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 59.45
+Top-5 accuracy: 89.76
+Max rd_similarity: 5.6267
+Min rd_similarity: 4.9384
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 89.07
+Top-5 accuracy: 99.59
+Max rd_similarity: 7.2670
+Min rd_similarity: 2.2765
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 64.52
+Top-5 accuracy: 94.28
+Max rd_similarity: 7.5871
+Min rd_similarity: 4.8398
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/CIFAR100.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.25
+Top-5 accuracy: 92.35
+Max rd_similarity: 6.5842
+Min rd_similarity: 4.0535
+lr_ce:0.005
+lr_rd:0.005
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 70.74
+Top-5 accuracy: 88.46
+Max rd_similarity: 2.5532
+Min rd_similarity: 0.9126
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 54.61
+Top-5 accuracy: 87.80
+Max rd_similarity: 5.1871
+Min rd_similarity: 4.5617
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 71.28
+Top-5 accuracy: 85.92
+Max rd_similarity: 5.7494
+Min rd_similarity: 3.4384
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 88.75
+Top-5 accuracy: 98.67
+Max rd_similarity: 5.3549
+Min rd_similarity: 3.4538
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 59.45
+Top-5 accuracy: 89.76
+Max rd_similarity: 5.6267
+Min rd_similarity: 4.9384
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 89.07
+Top-5 accuracy: 99.59
+Max rd_similarity: 4.8517
+Min rd_similarity: 2.2765
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 64.52
+Top-5 accuracy: 94.28
+Max rd_similarity: 5.3976
+Min rd_similarity: 4.2982
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/DTD.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.25
+Top-5 accuracy: 92.35
+Max rd_similarity: 5.0950
+Min rd_similarity: 4.0535
+lr_ce:0.001
+lr_rd:5e-05
+ZS_threshold:2.0
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 79.89
+Top-5 accuracy: 94.20
+Max rd_similarity: 2.5532
+Min rd_similarity: 0.9126
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.24
+Top-5 accuracy: 99.98
+Max rd_similarity: 0.9017
+Min rd_similarity: 0.1513
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 71.28
+Top-5 accuracy: 85.92
+Max rd_similarity: 5.7494
+Min rd_similarity: 3.4384
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 88.75
+Top-5 accuracy: 98.67
+Max rd_similarity: 5.3549
+Min rd_similarity: 3.4538
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 59.45
+Top-5 accuracy: 89.76
+Max rd_similarity: 5.1809
+Min rd_similarity: 4.8603
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 88.25
+Top-5 accuracy: 99.43
+Max rd_similarity: 4.8517
+Min rd_similarity: 2.2765
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 64.52
+Top-5 accuracy: 94.28
+Max rd_similarity: 5.3976
+Min rd_similarity: 4.2982
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/EuroSAT.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.25
+Top-5 accuracy: 92.35
+Max rd_similarity: 5.0950
+Min rd_similarity: 4.0535
+lr_ce:0.001
+lr_rd:0.001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 79.89
+Top-5 accuracy: 94.20
+Max rd_similarity: 2.5532
+Min rd_similarity: 0.9126
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.24
+Top-5 accuracy: 99.98
+Max rd_similarity: 0.9017
+Min rd_similarity: 0.1513
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 93.53
+Top-5 accuracy: 98.15
+Max rd_similarity: 3.4157
+Min rd_similarity: 0.5662
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 88.75
+Top-5 accuracy: 98.66
+Max rd_similarity: 3.7769
+Min rd_similarity: 2.5326
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 59.45
+Top-5 accuracy: 89.76
+Max rd_similarity: 5.1809
+Min rd_similarity: 4.8603
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 88.25
+Top-5 accuracy: 99.43
+Max rd_similarity: 4.1816
+Min rd_similarity: 2.2765
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 64.52
+Top-5 accuracy: 94.28
+Max rd_similarity: 3.7483
+Min rd_similarity: 3.1038
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Flowers.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.25
+Top-5 accuracy: 92.35
+Max rd_similarity: 3.5948
+Min rd_similarity: 3.1185
+lr_ce:0.001
+lr_rd:0.0001
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 79.89
+Top-5 accuracy: 94.20
+Max rd_similarity: 2.5532
+Min rd_similarity: 0.9126
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.24
+Top-5 accuracy: 99.98
+Max rd_similarity: 0.9017
+Min rd_similarity: 0.1513
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 93.53
+Top-5 accuracy: 98.15
+Max rd_similarity: 3.4157
+Min rd_similarity: 0.5662
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.42
+Top-5 accuracy: 98.90
+Max rd_similarity: 2.2721
+Min rd_similarity: 0.5986
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 59.45
+Top-5 accuracy: 89.76
+Max rd_similarity: 5.1809
+Min rd_similarity: 4.8603
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 88.25
+Top-5 accuracy: 99.43
+Max rd_similarity: 4.0297
+Min rd_similarity: 2.2765
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 64.52
+Top-5 accuracy: 94.28
+Max rd_similarity: 3.7483
+Min rd_similarity: 3.1038
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/Food.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.25
+Top-5 accuracy: 92.35
+Max rd_similarity: 3.5948
+Min rd_similarity: 3.1185
+lr_ce:0.001
+lr_rd:0.002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 79.89
+Top-5 accuracy: 94.20
+Max rd_similarity: 2.5532
+Min rd_similarity: 0.9126
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.24
+Top-5 accuracy: 99.98
+Max rd_similarity: 0.9017
+Min rd_similarity: 0.1513
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 93.53
+Top-5 accuracy: 98.15
+Max rd_similarity: 3.4157
+Min rd_similarity: 0.5662
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.42
+Top-5 accuracy: 98.90
+Max rd_similarity: 2.2721
+Min rd_similarity: 0.5986
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 98.07
+Top-5 accuracy: 99.91
+Max rd_similarity: 0.5849
+Min rd_similarity: 0.0849
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 88.25
+Top-5 accuracy: 99.43
+Max rd_similarity: 4.0297
+Min rd_similarity: 2.2765
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 64.52
+Top-5 accuracy: 94.28
+Max rd_similarity: 3.7483
+Min rd_similarity: 3.1038
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/MNIST.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 65.25
+Top-5 accuracy: 92.35
+Max rd_similarity: 3.5948
+Min rd_similarity: 3.1185
+lr_ce:0.0001
+lr_rd:0.0002
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 79.89
+Top-5 accuracy: 94.20
+Max rd_similarity: 2.5532
+Min rd_similarity: 0.9126
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.24
+Top-5 accuracy: 99.98
+Max rd_similarity: 0.9017
+Min rd_similarity: 0.1513
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 93.53
+Top-5 accuracy: 98.15
+Max rd_similarity: 3.4157
+Min rd_similarity: 0.5662
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.42
+Top-5 accuracy: 98.90
+Max rd_similarity: 2.2721
+Min rd_similarity: 0.5986
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 98.07
+Top-5 accuracy: 99.91
+Max rd_similarity: 0.5849
+Min rd_similarity: 0.0849
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.22
+Top-5 accuracy: 99.70
+Max rd_similarity: 1.9036
+Min rd_similarity: 0.3193
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 53.20
+Top-5 accuracy: 88.36
+Max rd_similarity: 2.9295
+Min rd_similarity: 1.4614
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/OxfordPet.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 53.87
+Top-5 accuracy: 83.97
+Max rd_similarity: 1.9078
+Min rd_similarity: 0.9179
+lr_ce:0.001
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 79.89
+Top-5 accuracy: 94.20
+Max rd_similarity: 2.5532
+Min rd_similarity: 0.9126
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.24
+Top-5 accuracy: 99.98
+Max rd_similarity: 0.9017
+Min rd_similarity: 0.1513
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 93.53
+Top-5 accuracy: 98.15
+Max rd_similarity: 3.4157
+Min rd_similarity: 0.5662
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.42
+Top-5 accuracy: 98.90
+Max rd_similarity: 2.2721
+Min rd_similarity: 0.5986
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 98.07
+Top-5 accuracy: 99.91
+Max rd_similarity: 0.5849
+Min rd_similarity: 0.0849
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.22
+Top-5 accuracy: 99.70
+Max rd_similarity: 1.9036
+Min rd_similarity: 0.3193
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 78.34
+Top-5 accuracy: 98.00
+Max rd_similarity: 1.9645
+Min rd_similarity: 0.2380
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/StanfordCars.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 54.71
+Top-5 accuracy: 84.44
+Max rd_similarity: 1.7097
+Min rd_similarity: 0.9179
+lr_ce:0.002
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 55.84
+Top-5 accuracy: 84.07
+Max rd_similarity: 1.7386
+Min rd_similarity: 0.0054
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 95.22
+Top-5 accuracy: 99.71
+Max rd_similarity: 1.8486
+Min rd_similarity: 0.6259
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 84.29
+Top-5 accuracy: 97.54
+Max rd_similarity: 0.4367
+Min rd_similarity: 0.0367
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 79.89
+Top-5 accuracy: 94.20
+Max rd_similarity: 2.5532
+Min rd_similarity: 0.9126
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.24
+Top-5 accuracy: 99.98
+Max rd_similarity: 0.9017
+Min rd_similarity: 0.1513
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 93.53
+Top-5 accuracy: 98.15
+Max rd_similarity: 3.4157
+Min rd_similarity: 0.5662
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.42
+Top-5 accuracy: 98.90
+Max rd_similarity: 2.2721
+Min rd_similarity: 0.5986
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 98.07
+Top-5 accuracy: 99.91
+Max rd_similarity: 0.5849
+Min rd_similarity: 0.0849
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.22
+Top-5 accuracy: 99.70
+Max rd_similarity: 1.9036
+Min rd_similarity: 0.3193
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 78.34
+Top-5 accuracy: 98.00
+Max rd_similarity: 1.9645
+Min rd_similarity: 0.2380
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6
+clip model load!
+check missing keys
+Checkpoint loaded from: /home/dhw/HZC_workspace/Projects/MoE-Adapters4CL/mtil/ckpt/best_ckpt/adjust_SEMA_full_shot_0911_Avg/SUN397.pth
+train model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 76.16
+Top-5 accuracy: 96.05
+Max rd_similarity: 1.6278
+Min rd_similarity: 0.1265
+lr_ce:0.0005
+lr_rd:0.005
+ZS_threshold:2.6

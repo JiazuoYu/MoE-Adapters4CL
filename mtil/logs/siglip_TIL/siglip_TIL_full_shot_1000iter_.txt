@@ -1,0 +1,913 @@
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 92.86
+Top-5 accuracy: 100.00
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 72.24
+Top-5 accuracy: 91.00
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 64.63
+Top-5 accuracy: 91.81
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 43.17
+Top-5 accuracy: 82.61
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 85.33
+Top-5 accuracy: 95.40
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.60
+Top-5 accuracy: 98.97
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 84.32
+Top-5 accuracy: 97.43
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.14
+Top-5 accuracy: 99.84
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.96
+Top-5 accuracy: 99.74
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 68.41
+Top-5 accuracy: 92.30
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 72.24
+Top-5 accuracy: 91.00
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 64.63
+Top-5 accuracy: 91.81
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 43.17
+Top-5 accuracy: 82.61
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 84.81
+Top-5 accuracy: 95.40
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.60
+Top-5 accuracy: 98.97
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 84.32
+Top-5 accuracy: 97.43
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.14
+Top-5 accuracy: 99.84
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.96
+Top-5 accuracy: 99.74
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 68.41
+Top-5 accuracy: 92.30
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 64.63
+Top-5 accuracy: 91.81
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 43.17
+Top-5 accuracy: 82.61
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 84.81
+Top-5 accuracy: 95.40
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.60
+Top-5 accuracy: 98.97
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 84.32
+Top-5 accuracy: 97.43
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.14
+Top-5 accuracy: 99.84
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.96
+Top-5 accuracy: 99.74
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 68.41
+Top-5 accuracy: 92.30
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 78.19
+Top-5 accuracy: 94.26
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 43.17
+Top-5 accuracy: 82.61
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 84.81
+Top-5 accuracy: 95.40
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.60
+Top-5 accuracy: 98.97
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 84.32
+Top-5 accuracy: 97.43
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.14
+Top-5 accuracy: 99.84
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.96
+Top-5 accuracy: 99.74
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 68.41
+Top-5 accuracy: 92.30
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 78.19
+Top-5 accuracy: 94.26
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.59
+Top-5 accuracy: 99.98
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 84.81
+Top-5 accuracy: 95.40
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 91.60
+Top-5 accuracy: 98.97
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 84.32
+Top-5 accuracy: 97.43
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.14
+Top-5 accuracy: 99.84
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.96
+Top-5 accuracy: 99.74
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 68.41
+Top-5 accuracy: 92.30
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 78.19
+Top-5 accuracy: 94.26
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.59
+Top-5 accuracy: 99.98
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 95.09
+Top-5 accuracy: 99.40
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 89.92
+Top-5 accuracy: 98.43
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 84.32
+Top-5 accuracy: 97.43
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.14
+Top-5 accuracy: 99.84
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.96
+Top-5 accuracy: 99.74
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 68.41
+Top-5 accuracy: 92.30
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 78.78
+Top-5 accuracy: 94.41
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.59
+Top-5 accuracy: 99.98
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 98.15
+Top-5 accuracy: 99.77
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 93.05
+Top-5 accuracy: 99.20
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 84.32
+Top-5 accuracy: 97.43
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 92.01
+Top-5 accuracy: 99.75
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.96
+Top-5 accuracy: 99.74
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 68.41
+Top-5 accuracy: 92.30
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 78.78
+Top-5 accuracy: 94.41
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.59
+Top-5 accuracy: 99.98
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 98.15
+Top-5 accuracy: 99.77
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 93.05
+Top-5 accuracy: 99.20
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 98.79
+Top-5 accuracy: 100.00
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 92.01
+Top-5 accuracy: 99.75
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.96
+Top-5 accuracy: 99.74
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 68.41
+Top-5 accuracy: 92.30
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 78.78
+Top-5 accuracy: 94.41
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.59
+Top-5 accuracy: 99.98
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 98.15
+Top-5 accuracy: 99.77
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 92.43
+Top-5 accuracy: 99.05
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 98.79
+Top-5 accuracy: 100.00
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.58
+Top-5 accuracy: 99.48
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 90.66
+Top-5 accuracy: 99.70
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 51.33
+Top-5 accuracy: 81.81
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 78.78
+Top-5 accuracy: 94.41
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.59
+Top-5 accuracy: 99.98
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 98.15
+Top-5 accuracy: 99.77
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 92.43
+Top-5 accuracy: 99.05
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 98.79
+Top-5 accuracy: 100.00
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.58
+Top-5 accuracy: 99.48
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 94.65
+Top-5 accuracy: 99.61
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 51.33
+Top-5 accuracy: 81.81
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Aircraft
+Get text embeddings of ['Aircraft']...
+Text embeddings processed!
+Top-1 accuracy: 75.67
+Top-5 accuracy: 94.12
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Caltech101
+Files already downloaded and verified
+Get text embeddings of ['Caltech101']...
+Text embeddings processed!
+Top-1 accuracy: 98.91
+Top-5 accuracy: 99.88
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on CIFAR100
+Files already downloaded and verified
+Files already downloaded and verified
+Get text embeddings of ['CIFAR100']...
+Text embeddings processed!
+Top-1 accuracy: 87.35
+Top-5 accuracy: 98.29
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on DTD
+Get text embeddings of ['DTD']...
+Text embeddings processed!
+Top-1 accuracy: 82.18
+Top-5 accuracy: 94.68
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on EuroSAT
+Get text embeddings of ['EuroSAT']...
+Text embeddings processed!
+Top-1 accuracy: 98.59
+Top-5 accuracy: 99.98
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Flowers
+Get text embeddings of ['Flowers']...
+Text embeddings processed!
+Top-1 accuracy: 98.31
+Top-5 accuracy: 99.77
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on Food
+Get text embeddings of ['Food']...
+Text embeddings processed!
+Top-1 accuracy: 92.43
+Top-5 accuracy: 99.05
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on MNIST
+Get text embeddings of ['MNIST']...
+Text embeddings processed!
+Top-1 accuracy: 98.79
+Top-5 accuracy: 100.00
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on OxfordPet
+Get text embeddings of ['OxfordPet']...
+Text embeddings processed!
+Top-1 accuracy: 94.58
+Top-5 accuracy: 99.48
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on StanfordCars
+1 /home/dhw/yjz_workspace/data/data
+2 /home/dhw/yjz_workspace/data/data/stanford_cars
+3 True
+Get text embeddings of ['StanfordCars']...
+Text embeddings processed!
+Top-1 accuracy: 94.65
+Top-5 accuracy: 99.61
+build pre-trained model config: Siglip-B-14-224
+siglip model load!
+Evaluating on SUN397
+Get text embeddings of ['SUN397']...
+Text embeddings processed!
+Top-1 accuracy: 77.08
+Top-5 accuracy: 96.24

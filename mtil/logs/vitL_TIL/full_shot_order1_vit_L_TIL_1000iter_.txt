@@ -191,10 +191,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 68.17
 Top-5 accuracy: 91.81
-visual_zero_shot_rate: 0.04
-visual_right_rate: 0.96
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -204,10 +200,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 91.42
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 6.8852
-Min discrepancy: 6.8539
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -218,10 +210,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 77.00
 Top-5 accuracy: 94.25
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 6.3909
-Min discrepancy: 6.2411
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -230,10 +218,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 56.38
 Top-5 accuracy: 84.04
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 6.8307
-Min discrepancy: 6.3273
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -242,10 +226,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 61.17
 Top-5 accuracy: 96.44
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 6.1639
-Min discrepancy: 6.0443
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -254,10 +234,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 78.40
 Top-5 accuracy: 92.21
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 5.9251
-Min discrepancy: 3.6307
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -266,10 +242,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 94.01
 Top-5 accuracy: 99.46
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 6.0821
-Min discrepancy: 4.8935
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -278,10 +250,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 75.17
 Top-5 accuracy: 95.12
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 6.5126
-Min discrepancy: 6.2542
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -290,10 +258,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 93.84
 Top-5 accuracy: 99.84
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 5.1708
-Min discrepancy: 3.6747
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -305,10 +269,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 79.41
 Top-5 accuracy: 98.62
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.9096
-Min discrepancy: 4.0653
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Aircraft.pth
 train model load!
@@ -317,10 +277,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 69.37
 Top-5 accuracy: 94.26
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 5.2895
-Min discrepancy: 4.3575
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -329,10 +285,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 68.17
 Top-5 accuracy: 91.81
-visual_zero_shot_rate: 0.04
-visual_right_rate: 0.96
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -342,10 +294,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -356,10 +304,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 77.00
 Top-5 accuracy: 94.25
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 3.1955
-Min discrepancy: 3.0276
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -368,10 +312,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 54.26
 Top-5 accuracy: 80.69
-visual_zero_shot_rate: 0.80
-visual_right_rate: 0.00
-Max discrepancy: 2.3163
-Min discrepancy: 0.9154
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -380,10 +320,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 61.17
 Top-5 accuracy: 96.44
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 3.7234
-Min discrepancy: 3.6588
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -392,10 +328,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 78.40
 Top-5 accuracy: 92.21
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.2449
-Min discrepancy: 2.6492
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -404,10 +336,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 94.01
 Top-5 accuracy: 99.46
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.2402
-Min discrepancy: 3.5406
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -416,10 +344,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 75.17
 Top-5 accuracy: 95.12
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.9415
-Min discrepancy: 2.8266
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -428,10 +352,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 93.84
 Top-5 accuracy: 99.84
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.6478
-Min discrepancy: 3.6747
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -443,10 +363,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 79.41
 Top-5 accuracy: 98.62
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.2620
-Min discrepancy: 3.7234
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Caltech101.pth
 train model load!
@@ -455,10 +371,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 69.37
 Top-5 accuracy: 94.26
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.3614
-Min discrepancy: 3.6632
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -467,10 +379,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 68.17
 Top-5 accuracy: 91.81
-visual_zero_shot_rate: 0.04
-visual_right_rate: 0.96
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -480,10 +388,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -494,10 +398,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -506,10 +406,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 54.26
 Top-5 accuracy: 80.69
-visual_zero_shot_rate: 0.80
-visual_right_rate: 0.00
-Max discrepancy: 2.3163
-Min discrepancy: 0.9154
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -518,10 +414,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 61.17
 Top-5 accuracy: 96.44
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.4004
-Min discrepancy: 2.1560
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -530,10 +422,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 78.40
 Top-5 accuracy: 92.21
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.2449
-Min discrepancy: 2.6492
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -542,10 +430,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 94.01
 Top-5 accuracy: 99.46
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 3.8721
-Min discrepancy: 3.3228
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -554,10 +438,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 75.17
 Top-5 accuracy: 95.12
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.5017
-Min discrepancy: 2.2749
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -566,10 +446,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 93.84
 Top-5 accuracy: 99.84
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.1412
-Min discrepancy: 3.6747
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -581,10 +457,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 79.41
 Top-5 accuracy: 98.62
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.2530
-Min discrepancy: 3.7234
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//CIFAR100.pth
 train model load!
@@ -593,10 +465,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 69.37
 Top-5 accuracy: 94.26
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 4.1698
-Min discrepancy: 3.6632
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -605,10 +473,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 68.17
 Top-5 accuracy: 91.81
-visual_zero_shot_rate: 0.04
-visual_right_rate: 0.96
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -618,10 +482,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -632,10 +492,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -644,10 +500,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 73.94
 Top-5 accuracy: 87.93
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.80
-Max discrepancy: 1.1971
-Min discrepancy: 0.4387
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -656,10 +508,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 61.17
 Top-5 accuracy: 96.44
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.4004
-Min discrepancy: 2.1560
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -668,10 +516,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 78.40
 Top-5 accuracy: 92.21
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 3.5009
-Min discrepancy: 1.3983
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -680,10 +524,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 93.62
 Top-5 accuracy: 99.40
-visual_zero_shot_rate: 0.98
-visual_right_rate: 0.00
-Max discrepancy: 1.9679
-Min discrepancy: 1.1293
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -692,10 +532,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 75.17
 Top-5 accuracy: 95.12
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.5017
-Min discrepancy: 2.2749
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -704,10 +540,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 93.84
 Top-5 accuracy: 99.84
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.9072
-Min discrepancy: 1.7834
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -719,10 +551,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 79.41
 Top-5 accuracy: 98.62
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.4698
-Min discrepancy: 1.9807
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//DTD.pth
 train model load!
@@ -731,10 +559,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 69.37
 Top-5 accuracy: 94.26
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.2585
-Min discrepancy: 1.5777
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -743,10 +567,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 68.17
 Top-5 accuracy: 91.81
-visual_zero_shot_rate: 0.04
-visual_right_rate: 0.96
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -756,10 +576,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -770,10 +586,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -782,10 +594,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 73.94
 Top-5 accuracy: 87.93
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.80
-Max discrepancy: 1.1971
-Min discrepancy: 0.4387
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -794,10 +602,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 98.54
 Top-5 accuracy: 100.00
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2441
-Min discrepancy: 0.1118
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -806,10 +610,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 78.40
 Top-5 accuracy: 92.21
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 3.5009
-Min discrepancy: 1.3983
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -818,10 +618,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 93.62
 Top-5 accuracy: 99.40
-visual_zero_shot_rate: 0.98
-visual_right_rate: 0.00
-Max discrepancy: 1.9679
-Min discrepancy: 1.1293
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -830,10 +626,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 75.17
 Top-5 accuracy: 95.12
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.5017
-Min discrepancy: 2.2749
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -842,10 +634,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 93.84
 Top-5 accuracy: 99.84
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.9072
-Min discrepancy: 1.7834
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -857,10 +645,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 79.41
 Top-5 accuracy: 98.62
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.4698
-Min discrepancy: 1.9807
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//EuroSAT.pth
 train model load!
@@ -869,10 +653,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 69.37
 Top-5 accuracy: 94.26
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.2585
-Min discrepancy: 1.5777
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -881,10 +661,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 68.17
 Top-5 accuracy: 91.81
-visual_zero_shot_rate: 0.04
-visual_right_rate: 0.96
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -894,10 +670,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -908,10 +680,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -920,10 +688,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 73.94
 Top-5 accuracy: 87.93
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.80
-Max discrepancy: 1.1971
-Min discrepancy: 0.4387
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -932,10 +696,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 98.54
 Top-5 accuracy: 100.00
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2441
-Min discrepancy: 0.1118
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -944,10 +704,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 88.62
 Top-5 accuracy: 94.00
-visual_zero_shot_rate: 0.43
-visual_right_rate: 0.57
-Max discrepancy: 1.8766
-Min discrepancy: 0.4823
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -956,10 +712,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 93.62
 Top-5 accuracy: 99.40
-visual_zero_shot_rate: 0.98
-visual_right_rate: 0.00
-Max discrepancy: 1.9679
-Min discrepancy: 1.1293
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -968,10 +720,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 75.17
 Top-5 accuracy: 95.12
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.5017
-Min discrepancy: 2.2749
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -980,10 +728,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 93.84
 Top-5 accuracy: 99.84
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.8917
-Min discrepancy: 1.7834
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -995,10 +739,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 79.41
 Top-5 accuracy: 98.62
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.2001
-Min discrepancy: 1.9170
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Flowers.pth
 train model load!
@@ -1007,10 +747,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 69.37
 Top-5 accuracy: 94.26
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.2585
-Min discrepancy: 1.5777
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1019,10 +755,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 68.17
 Top-5 accuracy: 91.81
-visual_zero_shot_rate: 0.04
-visual_right_rate: 0.96
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1032,10 +764,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1046,10 +774,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1058,10 +782,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 73.94
 Top-5 accuracy: 87.93
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.80
-Max discrepancy: 1.1971
-Min discrepancy: 0.4387
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1070,10 +790,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 98.54
 Top-5 accuracy: 100.00
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2441
-Min discrepancy: 0.1118
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1082,10 +798,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 88.62
 Top-5 accuracy: 94.00
-visual_zero_shot_rate: 0.43
-visual_right_rate: 0.57
-Max discrepancy: 1.8766
-Min discrepancy: 0.4823
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1094,10 +806,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 94.59
 Top-5 accuracy: 99.45
-visual_zero_shot_rate: 0.40
-visual_right_rate: 0.59
-Max discrepancy: 1.5006
-Min discrepancy: 0.5536
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1106,10 +814,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 75.17
 Top-5 accuracy: 95.12
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.5017
-Min discrepancy: 2.2749
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1118,10 +822,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 93.84
 Top-5 accuracy: 99.84
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.6735
-Min discrepancy: 1.7834
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1133,10 +833,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 79.41
 Top-5 accuracy: 98.62
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.2001
-Min discrepancy: 1.9170
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//Food.pth
 train model load!
@@ -1145,10 +841,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 69.37
 Top-5 accuracy: 94.26
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.2585
-Min discrepancy: 1.5777
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1157,10 +849,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 68.17
 Top-5 accuracy: 91.81
-visual_zero_shot_rate: 0.04
-visual_right_rate: 0.96
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1170,10 +858,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1184,10 +868,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1196,10 +876,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 73.94
 Top-5 accuracy: 87.93
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.80
-Max discrepancy: 1.1971
-Min discrepancy: 0.4387
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1208,10 +884,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 98.54
 Top-5 accuracy: 100.00
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2441
-Min discrepancy: 0.1118
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1220,10 +892,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 88.62
 Top-5 accuracy: 94.00
-visual_zero_shot_rate: 0.43
-visual_right_rate: 0.57
-Max discrepancy: 1.8766
-Min discrepancy: 0.4823
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1232,10 +900,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 94.59
 Top-5 accuracy: 99.45
-visual_zero_shot_rate: 0.40
-visual_right_rate: 0.59
-Max discrepancy: 1.5006
-Min discrepancy: 0.5536
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1244,10 +908,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 98.83
 Top-5 accuracy: 99.95
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.4858
-Min discrepancy: 0.0389
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1256,10 +916,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 93.84
 Top-5 accuracy: 99.84
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.6735
-Min discrepancy: 1.7834
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1271,10 +927,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 79.41
 Top-5 accuracy: 98.62
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.2001
-Min discrepancy: 1.9170
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//MNIST.pth
 train model load!
@@ -1283,10 +935,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 69.37
 Top-5 accuracy: 94.26
-visual_zero_shot_rate: 1.00
-visual_right_rate: 0.00
-Max discrepancy: 2.2585
-Min discrepancy: 1.5777
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1295,10 +943,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 69.58
 Top-5 accuracy: 92.95
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1308,10 +952,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1322,10 +962,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1334,10 +970,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 73.94
 Top-5 accuracy: 87.93
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.80
-Max discrepancy: 1.1971
-Min discrepancy: 0.4387
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1346,10 +978,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 98.54
 Top-5 accuracy: 100.00
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2441
-Min discrepancy: 0.1118
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1358,10 +986,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 98.65
 Top-5 accuracy: 99.67
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 1.8766
-Min discrepancy: 0.4823
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1370,10 +994,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 90.14
 Top-5 accuracy: 97.08
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.85
-Max discrepancy: 1.5006
-Min discrepancy: 0.5536
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1382,10 +1002,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 98.83
 Top-5 accuracy: 99.95
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.4858
-Min discrepancy: 0.0389
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1394,10 +1010,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 95.67
 Top-5 accuracy: 99.51
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.6778
-Min discrepancy: 0.1537
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1409,10 +1021,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 63.20
 Top-5 accuracy: 94.71
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.00
-Max discrepancy: 1.1875
-Min discrepancy: 0.8996
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//OxfordPet.pth
 train model load!
@@ -1421,10 +1029,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 50.22
 Top-5 accuracy: 82.21
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.00
-Max discrepancy: 1.1262
-Min discrepancy: 0.6909
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1433,10 +1037,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 69.58
 Top-5 accuracy: 92.95
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1446,10 +1046,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1460,10 +1056,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1472,10 +1064,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 73.94
 Top-5 accuracy: 87.93
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.80
-Max discrepancy: 1.1971
-Min discrepancy: 0.4387
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1484,10 +1072,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 98.54
 Top-5 accuracy: 100.00
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2441
-Min discrepancy: 0.1118
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1496,10 +1080,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 98.65
 Top-5 accuracy: 99.67
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 1.8766
-Min discrepancy: 0.4823
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1508,10 +1088,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 90.14
 Top-5 accuracy: 97.08
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.85
-Max discrepancy: 1.5006
-Min discrepancy: 0.5536
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1520,10 +1096,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 98.83
 Top-5 accuracy: 99.95
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.4858
-Min discrepancy: 0.0389
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1532,10 +1104,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 95.67
 Top-5 accuracy: 99.51
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.6778
-Min discrepancy: 0.1537
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1547,10 +1115,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 83.36
 Top-5 accuracy: 99.01
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.5440
-Min discrepancy: 0.1883
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//StanfordCars.pth
 train model load!
@@ -1559,10 +1123,6 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 52.53
 Top-5 accuracy: 83.52
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.00
-Max discrepancy: 1.0945
-Min discrepancy: 0.6909
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1571,10 +1131,6 @@ Get text embeddings of ['Aircraft']...
 Text embeddings processed!
 Top-1 accuracy: 69.58
 Top-5 accuracy: 92.95
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 1.2149
-Min discrepancy: 0.0029
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1584,10 +1140,6 @@ Get text embeddings of ['Caltech101']...
 Text embeddings processed!
 Top-1 accuracy: 95.05
 Top-5 accuracy: 99.83
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.3422
-Min discrepancy: 0.1163
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1598,10 +1150,6 @@ Get text embeddings of ['CIFAR100']...
 Text embeddings processed!
 Top-1 accuracy: 88.25
 Top-5 accuracy: 98.16
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2185
-Min discrepancy: 0.0306
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1610,10 +1158,6 @@ Get text embeddings of ['DTD']...
 Text embeddings processed!
 Top-1 accuracy: 73.94
 Top-5 accuracy: 87.93
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.80
-Max discrepancy: 1.1971
-Min discrepancy: 0.4387
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1622,10 +1166,6 @@ Get text embeddings of ['EuroSAT']...
 Text embeddings processed!
 Top-1 accuracy: 98.54
 Top-5 accuracy: 100.00
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.2441
-Min discrepancy: 0.1118
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1634,10 +1174,6 @@ Get text embeddings of ['Flowers']...
 Text embeddings processed!
 Top-1 accuracy: 98.65
 Top-5 accuracy: 99.67
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 1.8766
-Min discrepancy: 0.4823
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1646,10 +1182,6 @@ Get text embeddings of ['Food']...
 Text embeddings processed!
 Top-1 accuracy: 90.14
 Top-5 accuracy: 97.08
-visual_zero_shot_rate: 0.00
-visual_right_rate: 0.85
-Max discrepancy: 1.5006
-Min discrepancy: 0.5536
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1658,10 +1190,6 @@ Get text embeddings of ['MNIST']...
 Text embeddings processed!
 Top-1 accuracy: 98.83
 Top-5 accuracy: 99.95
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.4858
-Min discrepancy: 0.0389
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1670,10 +1198,6 @@ Get text embeddings of ['OxfordPet']...
 Text embeddings processed!
 Top-1 accuracy: 95.67
 Top-5 accuracy: 99.51
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.6778
-Min discrepancy: 0.1537
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1685,10 +1209,6 @@ Get text embeddings of ['StanfordCars']...
 Text embeddings processed!
 Top-1 accuracy: 83.36
 Top-5 accuracy: 99.01
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.5440
-Min discrepancy: 0.1883
 clip model load!
 Checkpoint loaded from: ckpt/moe_v2_vitL_TIL/TIL/Order1/full_shot//SUN397.pth
 train model load!
@@ -1697,7 +1217,3 @@ Get text embeddings of ['SUN397']...
 Text embeddings processed!
 Top-1 accuracy: 80.98
 Top-5 accuracy: 97.52
-visual_zero_shot_rate: 0.00
-visual_right_rate: 1.00
-Max discrepancy: 0.5215
-Min discrepancy: 0.0753
