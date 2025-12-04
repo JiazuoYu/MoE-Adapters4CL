@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=JiazuoYu&project=MoE-Adapters4CL&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # MoE-Adapters4CL
 Code for paper "[**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**](https://arxiv.org/abs/2403.11549)" CVPR2024.
 
